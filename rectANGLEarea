@@ -1,0 +1,23 @@
+using System;
+
+namespace RectAngArea {//ns open
+    class Program {//class open
+            static void Main(string[] args)
+        {//main open
+            int length = 0;//saving rectangle lenth as zero to be later ascribed
+            int width = 0;// saving rectangle width as zero to be laer ascribed
+            int area = 0;// saving the area of the rectangle as zero to later be assigned
+            Console.WriteLine("please enter the rectangle's length");//user input prompt for lenght
+            length = int.Parse(Console.ReadLine());//user input converted to Lenth integer for later use
+            Console.WriteLine("please enter rectangle's width");// user input prompt for width
+            width = int.Parse(Console.ReadLine());//user input onverted to width integer for later use
+            area = TheArea(length, width);//called ints added and supplied to user
+            Console.WriteLine("area " + area);// prints the area from the function            
+        }//main close
+                static int TheArea(int length, int width)
+            {//area determining function open
+                int area = length * width;
+                return area;
+            }// area determining function close
+    }//class close
+}//ns close
