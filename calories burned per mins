@@ -1,0 +1,28 @@
+using System;
+
+namespace CPMB
+{//ns open
+    class Program
+    {//class open
+        static void Main(string[] args)
+        {//main open
+
+            double cpm = 3.9;// calories per min burned
+            double cpmr = 0;// calories burned after Time returned for each loop
+
+            for (int i = 10; i <= 30; i += 5)// da loop
+            {// for open
+
+                cpmr = cpm * i;
+
+               Console.WriteLine( cpmr );//display for loop result
+               
+
+
+            }// for close
+
+        }// main close
+
+    }// class close
+
+}// ns close
