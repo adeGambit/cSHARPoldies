@@ -1,0 +1,32 @@
+using System;
+
+namespace AlphabetSoup2Nuts
+{//namespace begin
+    class Program
+    {//class begin
+        static void Main(string[] args)
+        {//main begin
+            string word1;// 1st word input
+            string word2;// 2nd word input
+
+
+
+
+            Console.WriteLine("input 1st word in lowercase");// 1st word input
+            word1 = Console.ReadLine();// string assigned to designate word1
+            Console.WriteLine("input 2nd word in lowercase");// 2nd worde input
+            word2 = Console.ReadLine();// string assigned to designate word2
+
+            if (word1[0] > word2[0])//if conditions
+            {//if block begin
+                Console.WriteLine(word1 +  word2);
+            }// if block end
+            else//else condition
+             {// else block begin
+                Console.WriteLine(word2 +  word1);
+             }    //else block end
+
+        }//main end
+    }//class end
+
+}//namespace end
