@@ -1,0 +1,52 @@
+using System;
+using System.IO;
+
+
+namespace FunctionTesting
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int studentCount = 0;
+            double gpaSum = 0.0;
+            double gpaAverage = 0.0;
+
+            //OPEN FILE FOR READS ACCESS VIA STREAM READER
+            StreamReader studentData = new StreamReader(@"C:\Users\lower\Documents\NamesFields.txt");
+
+            //DO A THROWAWAY READLINE TO SKIP HEADER ROW
+            studentData.ReadLine();
+
+            //KEEP LOOPING UNTIL WE REACH THE END OF THE FILE
+            while (studentData.EndOfStream == false)
+            {
+                //READ ARECORD "ROW" FROM THE FILE
+                string studentRecord = studentData.ReadLine();
+
+                //increment teh student count
+                studentCount += 1;
+
+                //SPLIT THE RECORD INTO FILEDS "COLUMNS"
+                string[] fields = studentRecord.Split();//
+
+                gpaSum += double.Parse(fields[2]);
+
+                //LOOP THROUGH FIELDS AND DISPLAY EACH
+                for (int index = 0; index < fields.Length; index++)
+                {
+                    Console.Write(fields[index] + " ");
+                }//end for
+                                //allot integer for amount of students
+                //MOVE TO NEXT LINE ON CONSOLE
+                Console.WriteLine();
+            }//end while
+
+            gpaAverage = gpaSum / (double)studentCount;
+            //dislplay average
+            Console.WriteLine($"\nAverage gpa = {gpaAverage}");
+
+        }//end main
+
+    }//end class
+}//end namespace
