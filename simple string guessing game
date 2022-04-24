@@ -1,0 +1,21 @@
+using System;
+
+namespace passwordPassword
+{//ns begin
+    class Program
+    {//class begin
+        static void Main(string[] args)
+        {//main begin
+            string password = "password1";// password saved
+            string pwguess;//password guessed by user
+
+            Console.WriteLine("enter password");//hey, user: enter guess
+            pwguess = (Console.ReadLine());// guess input by user and saved to pwguess designation
+
+            if (pwguess == password)// if statement
+            {//if begin
+                Console.Write("access granted");// "i'm in"
+            }//if end
+        } //main end
+    }//class end
+}//ns end
