@@ -1,0 +1,21 @@
+using System;
+
+namespace tempConv
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double celc;
+           double fahr;
+
+           
+            Console.WriteLine("enter Celcius Temperature");
+            celc = double.Parse(Console.ReadLine());
+            fahr = ((celc * 1.8) + 32);
+            Console.WriteLine(fahr + "Fahrenheit");
+
+
+        }
+    }
+}
