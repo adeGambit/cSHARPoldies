@@ -1,0 +1,30 @@
+using System;
+
+namespace RentalCheck
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int age;//renter input
+            int diff;//difference display for amount of years until rentability
+            int v = 25;//the baseline age for rentability
+
+            Console.WriteLine("enter age for rentability check");//checking for age range 25+ expected
+            age = int.Parse(Console.ReadLine());// converting user input to int for later use
+
+            if (age >= v)// if user is 25 or older they are eligible to rent a car
+            {
+                Console.WriteLine("congratulations, you are eligible to rent a car!");//desired response
+            }
+            else//if the user is below the age of 25
+               
+            {
+                diff = v - age;// age difference equation to produce DIFF int
+
+                Console.WriteLine(diff + " years until rentability");//display of the age difference until rentability
+
+                }
+        }
+    }
+}
