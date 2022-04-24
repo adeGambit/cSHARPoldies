@@ -1,0 +1,10 @@
+using System;
+
+namespace ConsoleApp8 {//the random numbder generator is completely comprehended, now to rememember
+    class Program {
+        static void Main(string[] args) {
+            Random random = new Random();
+            Console.WriteLine(random.Next(0, 999));
+        }
+    }
+}
