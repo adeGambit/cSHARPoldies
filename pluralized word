@@ -1,0 +1,98 @@
+//funcitons/methods -+/*
+
+//Tue 12/7/2021 2:47 PM
+using System;
+
+namespace methods {
+    class Program {      
+        static void Main(string[] args) {
+            #region PLURALIZE CODE
+            //// stores "head" to string singularWord
+            //string singularWord = "head";
+            //
+            //// empty string stored to pluralized
+            //string pluralized = "";
+            //
+            ////pass singularWord variable to function MakePlural and its return value is stored to string pluralized
+            //pluralized = MakePlural(singularWord);
+            //
+            ////prints contents of the pluralized variable to console
+            //Console.WriteLine(pluralized);
+            #endregion
+
+
+           
+
+            int int1 = 0;//users 1st input to be collected
+            int int2 = 0;// users 2nd input to be collected
+
+            int userSum = 0;//the sum to be returned
+            int userDiff = 0;//the diff to be returned
+            int userQuot = 0;//the quot to be returned
+            int userProd = 0;//the prod to be returned
+
+
+
+            Console.WriteLine("input 1st number to do maths");//1st number requested for input
+            int1 = int.Parse(Console.ReadLine());//user input assigned to int1
+            Console.WriteLine("input 2nd number to do maths");//2nd number to be requested for input
+            int2 = int.Parse(Console.ReadLine());//user input assigned to int2
+
+
+            userSum = Add(int1, int2);//called ints added and supplied to user
+            userDiff = Sub(int1, int2);//called ints subtracted and supplied to user
+            userQuot = Div(int1, int2);//called ints divided and supplied to user
+            userProd = Mult(int1, int2);//called ints multiplied and supplied to user
+
+            Console.WriteLine(" sum " + userSum);//print to console for/from sum function block
+            Console.WriteLine(" difference " + userDiff);//print to console for/from diff function block
+            Console.WriteLine(" quotient " + userQuot);//print to console for/from quot function block
+            Console.WriteLine(" product " + userProd);//print to console for/from prod function block
+
+        }//end main
+
+        static int Add(int int1,int int2){
+
+            int sum = int1 + int2;// defines result as int1 and int2 to be returned
+
+            return sum;//the return requested
+           
+        }//end add function
+
+        static int Sub(int int1, int int2) {
+
+            int diff = int1 - int2;// defines the difference from int1 and int2 to be returned
+
+            return diff;//requested result
+           
+
+        }//end subtract function
+       
+        static int Div(int int1, int int2) {//divide funtion stated with arguements
+
+            int quotient = int1 / int2;// the quotient or result stated and int1, int2 maths laid out
+
+            return quotient;// the function return to called code
+           
+
+        }// end divide function code block
+
+        static int Mult(int int1, int int2) {// multiply funtion stated with arguements
+
+            int product = int1 * int2;// the product or result stated and maths laid out for int1 and int2
+
+            return product;// the function return to called code
+           
+        }// end multiply function code block
+
+
+        static string MakePlural(string word) {
+
+            string pluralWord = word + "s";
+
+            return pluralWord;
+        }//end function
+
+       
+    }//end class
+}//end namespace
