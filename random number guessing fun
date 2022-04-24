@@ -1,0 +1,22 @@
+using System;
+
+namespace ConsoleApp8 {//namespace open
+    class Program {//class open
+        static void Main(string[] args) {//main open
+            Random random = new Random();
+            int rando = 0;//users guess to be assigned
+            int right = 0;//the right answer if user guesses wrong
+            Console.WriteLine("welcome, dearest user! please hazzard a guess for the math problem below!");
+            Console.WriteLine(random.Next(0, 999) +"+"+ random.Next(0, 999));
+
+            rando = int.Parse(Console.ReadLine());//saves the answer submitted by the user
+
+            if rando == (random.Next(0, 999) + (random.Next(0, 999)
+            {
+                Console.WriteLine("CONGRATULATIONS");
+            }
+            else rando == right
+            {
+             Console.WriteLine(right);
+            }
+        }//main end
