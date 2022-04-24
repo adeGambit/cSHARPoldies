@@ -1,0 +1,31 @@
+using System;
+
+namespace mathMADNESS
+{//ns begin
+    class Program
+    {//class begin
+        static void Main(string[] args)
+        {//main begin
+
+            int num1;// 1st number entered
+            int num2;// 2nd number entered
+            int num3;// 3rd number i.e. answer
+
+            Console.WriteLine("enter 1st number to be added");//user input for 1st of 3 numbers
+            num1 = int.Parse(Console.ReadLine());// assigns num1's value
+            Console.WriteLine("enter 2nd number to be added");//user input for 2nd of 3 numbers
+            num2 = int.Parse(Console.ReadLine());//assigns num2's value
+            Console.WriteLine("enter the answer for the sum of the 1st 2 numbers");// users estimated sum of 1st 2 numbers
+            num3 = int.Parse(Console.ReadLine());//assigns num3's value
+            Console.WriteLine("the correct answer is " + (num1 + num2));//displays correct answer
+
+            if ((num1 + num2) == num3)// if statement condition begin
+            {//if code block begin
+                Console.WriteLine("you are CORRECT");// "if" user is right per their inputs
+
+            }//if end
+           
+
+        }//main end
+    }// class begin
+}//ns end
