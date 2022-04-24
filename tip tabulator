@@ -1,0 +1,31 @@
+using System;
+
+namespace ConsoleApp6TiTaTo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            double foodcost;// cost of meal
+            double salestax = 0.07;// sales tax
+            double stam;// sales tax ammount
+            double tip = 0.15;//bare minimum tip for "ok" service
+            double tpam;// tip amount            
+            double grandtotal;// the final result
+           
+            Console.WriteLine("enter cost of meal");// foodcost input required
+            foodcost= double.Parse(Console.ReadLine());//foodcost display
+            stam = (salestax * foodcost);//conversion to double
+            Console.WriteLine(stam + " Sales Tax");// sales tax ammount display
+            tpam = (tip * foodcost);//  conversion to double
+            Console.WriteLine(tpam + " tip for food");//tip ammount display
+            grandtotal = (tpam + stam + foodcost);//grand total equation
+            Console.WriteLine( (foodcost) + " meal cost");// food cost display
+            Console.WriteLine((salestax) + " tax for cost of meal");// sales tax display
+            Console.WriteLine((tpam) + " tip for meal");// tip amount display
+            Console.WriteLine((grandtotal) + "grand total");// grand total
+
+        }
+    }
+}
