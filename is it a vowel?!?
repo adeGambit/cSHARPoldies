@@ -1,0 +1,31 @@
+using System;
+
+namespace vowelPLZ
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string lca;//input to be saved for later distinction
+           
+
+            char a = 'a';//a
+            char e = 'e';//e
+            char i = 'i';//i
+            char o = 'o';//o
+            char u = 'u';//u
+
+            Console.WriteLine("Input LOWERCASE letter");//user input for distintion
+            lca = Console.ReadLine();//converts input to LCA designation
+
+
+            if(lca[0] == a || lca[0] == e|| lca[0] == i|| lca[0] == o|| lca[0] == u)//if condition
+            {//if block begin
+
+                   
+                    Console.WriteLine(" thats a vowel ");
+
+            }//end if block
+        }
+    }
+}//don't ask
