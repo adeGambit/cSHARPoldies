@@ -1,0 +1,25 @@
+using System;
+
+namespace bugCollecter
+{//ns open/start
+    class Program
+    {//class open
+        static void Main(string[] args)
+        {//main open
+
+            int bugstotal =0;// so hopefull
+            int bugs;//user input
+
+            for (int i = 0; i < 7; i++)
+            {  //        5    30// for calories burned problem
+                Console.WriteLine("how many bugs, fool?");//requesting daily ammount of bugs
+                bugs = int.Parse(Console.ReadLine());// bug count total to be displayed
+               
+                bugstotal += bugs;//
+                Console.WriteLine(bugstotal);
+            }
+           
+
+        }//main close
+    }//class close
+}//namespace 
