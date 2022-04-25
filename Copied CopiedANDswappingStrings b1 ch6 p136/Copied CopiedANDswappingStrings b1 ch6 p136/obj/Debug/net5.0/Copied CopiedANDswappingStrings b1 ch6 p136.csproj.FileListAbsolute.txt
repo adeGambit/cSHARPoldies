@@ -1,0 +1,16 @@
+C:\Users\lower\source\repos\Copied CopiedANDswappingStrings b1 ch6 p136\Copied CopiedANDswappingStrings b1 ch6 p136\obj\Debug\net5.0\Copied CopiedANDswappingStrings b1 ch6 p136.csproj.AssemblyReference.cache
+C:\Users\lower\source\repos\Copied CopiedANDswappingStrings b1 ch6 p136\Copied CopiedANDswappingStrings b1 ch6 p136\obj\Debug\net5.0\Copied CopiedANDswappingStrings b1 ch6 p136.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\Copied CopiedANDswappingStrings b1 ch6 p136\Copied CopiedANDswappingStrings b1 ch6 p136\obj\Debug\net5.0\Copied CopiedANDswappingStrings b1 ch6 p136.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\Copied CopiedANDswappingStrings b1 ch6 p136\Copied CopiedANDswappingStrings b1 ch6 p136\obj\Debug\net5.0\Copied CopiedANDswappingStrings b1 ch6 p136.AssemblyInfo.cs
+C:\Users\lower\source\repos\Copied CopiedANDswappingStrings b1 ch6 p136\Copied CopiedANDswappingStrings b1 ch6 p136\obj\Debug\net5.0\Copied CopiedANDswappingStrings b1 ch6 p136.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\Copied CopiedANDswappingStrings b1 ch6 p136\Copied CopiedANDswappingStrings b1 ch6 p136\bin\Debug\net5.0\Copied CopiedANDswappingStrings b1 ch6 p136.exe
+C:\Users\lower\source\repos\Copied CopiedANDswappingStrings b1 ch6 p136\Copied CopiedANDswappingStrings b1 ch6 p136\bin\Debug\net5.0\Copied CopiedANDswappingStrings b1 ch6 p136.deps.json
+C:\Users\lower\source\repos\Copied CopiedANDswappingStrings b1 ch6 p136\Copied CopiedANDswappingStrings b1 ch6 p136\bin\Debug\net5.0\Copied CopiedANDswappingStrings b1 ch6 p136.runtimeconfig.json
+C:\Users\lower\source\repos\Copied CopiedANDswappingStrings b1 ch6 p136\Copied CopiedANDswappingStrings b1 ch6 p136\bin\Debug\net5.0\Copied CopiedANDswappingStrings b1 ch6 p136.runtimeconfig.dev.json
+C:\Users\lower\source\repos\Copied CopiedANDswappingStrings b1 ch6 p136\Copied CopiedANDswappingStrings b1 ch6 p136\bin\Debug\net5.0\Copied CopiedANDswappingStrings b1 ch6 p136.dll
+C:\Users\lower\source\repos\Copied CopiedANDswappingStrings b1 ch6 p136\Copied CopiedANDswappingStrings b1 ch6 p136\bin\Debug\net5.0\ref\Copied CopiedANDswappingStrings b1 ch6 p136.dll
+C:\Users\lower\source\repos\Copied CopiedANDswappingStrings b1 ch6 p136\Copied CopiedANDswappingStrings b1 ch6 p136\bin\Debug\net5.0\Copied CopiedANDswappingStrings b1 ch6 p136.pdb
+C:\Users\lower\source\repos\Copied CopiedANDswappingStrings b1 ch6 p136\Copied CopiedANDswappingStrings b1 ch6 p136\obj\Debug\net5.0\Copied CopiedANDswappingStrings b1 ch6 p136.dll
+C:\Users\lower\source\repos\Copied CopiedANDswappingStrings b1 ch6 p136\Copied CopiedANDswappingStrings b1 ch6 p136\obj\Debug\net5.0\ref\Copied CopiedANDswappingStrings b1 ch6 p136.dll
+C:\Users\lower\source\repos\Copied CopiedANDswappingStrings b1 ch6 p136\Copied CopiedANDswappingStrings b1 ch6 p136\obj\Debug\net5.0\Copied CopiedANDswappingStrings b1 ch6 p136.pdb
+C:\Users\lower\source\repos\Copied CopiedANDswappingStrings b1 ch6 p136\Copied CopiedANDswappingStrings b1 ch6 p136\obj\Debug\net5.0\Copied CopiedANDswappingStrings b1 ch6 p136.genruntimeconfig.cache
