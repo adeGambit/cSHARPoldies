@@ -1,0 +1,10 @@
+C:\Users\lower\source\repos\PickAcardAnyCard\PickAcardAnyCard\bin\Debug\PickAcardAnyCard.exe.config
+C:\Users\lower\source\repos\PickAcardAnyCard\PickAcardAnyCard\bin\Debug\PickAcardAnyCard.exe
+C:\Users\lower\source\repos\PickAcardAnyCard\PickAcardAnyCard\bin\Debug\PickAcardAnyCard.pdb
+C:\Users\lower\source\repos\PickAcardAnyCard\PickAcardAnyCard\obj\Debug\PickAcardAnyCard.csproj.AssemblyReference.cache
+C:\Users\lower\source\repos\PickAcardAnyCard\PickAcardAnyCard\obj\Debug\PickAcardAnyCard.Form1.resources
+C:\Users\lower\source\repos\PickAcardAnyCard\PickAcardAnyCard\obj\Debug\PickAcardAnyCard.Properties.Resources.resources
+C:\Users\lower\source\repos\PickAcardAnyCard\PickAcardAnyCard\obj\Debug\PickAcardAnyCard.csproj.GenerateResource.cache
+C:\Users\lower\source\repos\PickAcardAnyCard\PickAcardAnyCard\obj\Debug\PickAcardAnyCard.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\PickAcardAnyCard\PickAcardAnyCard\obj\Debug\PickAcardAnyCard.exe
+C:\Users\lower\source\repos\PickAcardAnyCard\PickAcardAnyCard\obj\Debug\PickAcardAnyCard.pdb
