@@ -1,0 +1,15 @@
+C:\Users\lower\source\repos\catchingRUNtimeERRORS b1 ch8 p196\catchingRUNtimeERRORS b1 ch8 p196\bin\Debug\net5.0\catchingRUNtimeERRORS b1 ch8 p196.exe
+C:\Users\lower\source\repos\catchingRUNtimeERRORS b1 ch8 p196\catchingRUNtimeERRORS b1 ch8 p196\bin\Debug\net5.0\catchingRUNtimeERRORS b1 ch8 p196.deps.json
+C:\Users\lower\source\repos\catchingRUNtimeERRORS b1 ch8 p196\catchingRUNtimeERRORS b1 ch8 p196\bin\Debug\net5.0\catchingRUNtimeERRORS b1 ch8 p196.runtimeconfig.json
+C:\Users\lower\source\repos\catchingRUNtimeERRORS b1 ch8 p196\catchingRUNtimeERRORS b1 ch8 p196\bin\Debug\net5.0\catchingRUNtimeERRORS b1 ch8 p196.runtimeconfig.dev.json
+C:\Users\lower\source\repos\catchingRUNtimeERRORS b1 ch8 p196\catchingRUNtimeERRORS b1 ch8 p196\bin\Debug\net5.0\catchingRUNtimeERRORS b1 ch8 p196.dll
+C:\Users\lower\source\repos\catchingRUNtimeERRORS b1 ch8 p196\catchingRUNtimeERRORS b1 ch8 p196\bin\Debug\net5.0\ref\catchingRUNtimeERRORS b1 ch8 p196.dll
+C:\Users\lower\source\repos\catchingRUNtimeERRORS b1 ch8 p196\catchingRUNtimeERRORS b1 ch8 p196\bin\Debug\net5.0\catchingRUNtimeERRORS b1 ch8 p196.pdb
+C:\Users\lower\source\repos\catchingRUNtimeERRORS b1 ch8 p196\catchingRUNtimeERRORS b1 ch8 p196\obj\Debug\net5.0\catchingRUNtimeERRORS b1 ch8 p196.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\catchingRUNtimeERRORS b1 ch8 p196\catchingRUNtimeERRORS b1 ch8 p196\obj\Debug\net5.0\catchingRUNtimeERRORS b1 ch8 p196.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\catchingRUNtimeERRORS b1 ch8 p196\catchingRUNtimeERRORS b1 ch8 p196\obj\Debug\net5.0\catchingRUNtimeERRORS b1 ch8 p196.AssemblyInfo.cs
+C:\Users\lower\source\repos\catchingRUNtimeERRORS b1 ch8 p196\catchingRUNtimeERRORS b1 ch8 p196\obj\Debug\net5.0\catchingRUNtimeERRORS b1 ch8 p196.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\catchingRUNtimeERRORS b1 ch8 p196\catchingRUNtimeERRORS b1 ch8 p196\obj\Debug\net5.0\catchingRUNtimeERRORS b1 ch8 p196.dll
+C:\Users\lower\source\repos\catchingRUNtimeERRORS b1 ch8 p196\catchingRUNtimeERRORS b1 ch8 p196\obj\Debug\net5.0\ref\catchingRUNtimeERRORS b1 ch8 p196.dll
+C:\Users\lower\source\repos\catchingRUNtimeERRORS b1 ch8 p196\catchingRUNtimeERRORS b1 ch8 p196\obj\Debug\net5.0\catchingRUNtimeERRORS b1 ch8 p196.pdb
+C:\Users\lower\source\repos\catchingRUNtimeERRORS b1 ch8 p196\catchingRUNtimeERRORS b1 ch8 p196\obj\Debug\net5.0\catchingRUNtimeERRORS b1 ch8 p196.genruntimeconfig.cache
