@@ -1,0 +1,34 @@
+using System;
+
+namespace lotto1
+ {//namespace open
+    class Program {//class open
+        static void Main(string[] args) {//main open
+            Random random = new Random();// initializes random function
+            //int i;//decalring for later use
+            int[] lott = new int[7];//integer defined array and length for later use
+            int num = random.Next(0, 9);//parameter for the integer range for random number used
+
+            //
+            Console.WriteLine("LET'S GO LOTTO!");//print to console wording to get our user stoked
+            Console.WriteLine("----------------");//lil bit of flash and panash
+           
+            for (int i = 0; i < 7; i++) //forloop to save each random number to the allotted spots in the array
+            {//for open
+               
+                num = random.Next(0, 9);//the randomizer
+                lott[i] = num;//assigning randomly generated numbers to the num integer
+               
+            }//for close
+            Console.WriteLine("HERE'S THE WINNING NUMBERS: ");//print to screen explaining what the next loop is doing
+            for (int i = 0; i < 7; i++) //forloop to print the lotto numbers to the console
+            {// for begin
+               
+                Console.WriteLine(random.Next(num));//prints to screen
+               
+            }//for end
+
+        }// main close  
+    }//class close
+
+}//namespace close
