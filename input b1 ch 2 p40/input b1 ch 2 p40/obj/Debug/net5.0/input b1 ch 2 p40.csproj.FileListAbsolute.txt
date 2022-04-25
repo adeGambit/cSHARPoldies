@@ -1,0 +1,15 @@
+C:\Users\lower\source\repos\input b1 ch 2 p40\input b1 ch 2 p40\bin\Debug\net5.0\input b1 ch 2 p40.exe
+C:\Users\lower\source\repos\input b1 ch 2 p40\input b1 ch 2 p40\bin\Debug\net5.0\input b1 ch 2 p40.deps.json
+C:\Users\lower\source\repos\input b1 ch 2 p40\input b1 ch 2 p40\bin\Debug\net5.0\input b1 ch 2 p40.runtimeconfig.json
+C:\Users\lower\source\repos\input b1 ch 2 p40\input b1 ch 2 p40\bin\Debug\net5.0\input b1 ch 2 p40.runtimeconfig.dev.json
+C:\Users\lower\source\repos\input b1 ch 2 p40\input b1 ch 2 p40\bin\Debug\net5.0\input b1 ch 2 p40.dll
+C:\Users\lower\source\repos\input b1 ch 2 p40\input b1 ch 2 p40\bin\Debug\net5.0\ref\input b1 ch 2 p40.dll
+C:\Users\lower\source\repos\input b1 ch 2 p40\input b1 ch 2 p40\bin\Debug\net5.0\input b1 ch 2 p40.pdb
+C:\Users\lower\source\repos\input b1 ch 2 p40\input b1 ch 2 p40\obj\Debug\net5.0\input b1 ch 2 p40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\input b1 ch 2 p40\input b1 ch 2 p40\obj\Debug\net5.0\input b1 ch 2 p40.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\input b1 ch 2 p40\input b1 ch 2 p40\obj\Debug\net5.0\input b1 ch 2 p40.AssemblyInfo.cs
+C:\Users\lower\source\repos\input b1 ch 2 p40\input b1 ch 2 p40\obj\Debug\net5.0\input b1 ch 2 p40.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\input b1 ch 2 p40\input b1 ch 2 p40\obj\Debug\net5.0\input b1 ch 2 p40.dll
+C:\Users\lower\source\repos\input b1 ch 2 p40\input b1 ch 2 p40\obj\Debug\net5.0\ref\input b1 ch 2 p40.dll
+C:\Users\lower\source\repos\input b1 ch 2 p40\input b1 ch 2 p40\obj\Debug\net5.0\input b1 ch 2 p40.pdb
+C:\Users\lower\source\repos\input b1 ch 2 p40\input b1 ch 2 p40\obj\Debug\net5.0\input b1 ch 2 p40.genruntimeconfig.cache
