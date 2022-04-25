@@ -1,0 +1,16 @@
+C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\obj\Debug\net5.0\Write Stream WriteStreamB1Ch7P171.csproj.AssemblyReference.cache
+C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\obj\Debug\net5.0\Write Stream WriteStreamB1Ch7P171.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\obj\Debug\net5.0\Write Stream WriteStreamB1Ch7P171.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\obj\Debug\net5.0\Write Stream WriteStreamB1Ch7P171.AssemblyInfo.cs
+C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\obj\Debug\net5.0\Write Stream WriteStreamB1Ch7P171.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\bin\Debug\net5.0\Write Stream WriteStreamB1Ch7P171.exe
+C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\bin\Debug\net5.0\Write Stream WriteStreamB1Ch7P171.deps.json
+C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\bin\Debug\net5.0\Write Stream WriteStreamB1Ch7P171.runtimeconfig.json
+C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\bin\Debug\net5.0\Write Stream WriteStreamB1Ch7P171.runtimeconfig.dev.json
+C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\bin\Debug\net5.0\Write Stream WriteStreamB1Ch7P171.dll
+C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\bin\Debug\net5.0\ref\Write Stream WriteStreamB1Ch7P171.dll
+C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\bin\Debug\net5.0\Write Stream WriteStreamB1Ch7P171.pdb
+C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\obj\Debug\net5.0\Write Stream WriteStreamB1Ch7P171.dll
+C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\obj\Debug\net5.0\ref\Write Stream WriteStreamB1Ch7P171.dll
+C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\obj\Debug\net5.0\Write Stream WriteStreamB1Ch7P171.pdb
+C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\obj\Debug\net5.0\Write Stream WriteStreamB1Ch7P171.genruntimeconfig.cache
