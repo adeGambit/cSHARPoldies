@@ -1,0 +1,73 @@
+using System;
+
+namespace ConsoleApp4HomeWork
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            int ts1, ts2, ts3, ts4, ts5; // initializing variables
+            //int av = 0;//average of test scores default value
+            //string grade = " "; // default grade
+
+            //user input for grades ts1-5
+            Console.WriteLine("Please input first test score: ");
+            ts1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Please input second test score: ");
+            ts2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Please input third test score: ");
+            ts3 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Please input fourth test score: ");
+            ts4 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Please input fith test score: ");
+            ts5 = int.Parse(Console.ReadLine());
+
+            //call functions
+            CalcAverage(ts1, ts2, ts3, ts4, ts5);
+           // nested determinegrade w/ calcavg for simplicity
+           
+        }//main end
+       
+        static int CalcAverage(int ts1, int ts2, int ts3, int ts4, int ts5)
+        {
+            int av = ((ts1 + ts2 + ts3 + ts4 + ts5) / 5);// initializing variables in function and maths
+            Console.WriteLine(av);//print average
+            DetermineGrade(av);//nested function for simplicity
+            return av;
+        }//CalcAvg end
+        private static string DetermineGrade(int av)//private for grade info
+        {  
+            if ((av >= 60) || (av <= 69))//
+            {
+               string grade = "D";
+               Console.WriteLine(grade);
+               return grade;
+            }// end if for D grade
+            else if ((av >= 70) || (av <= 79))
+            {
+                string grade = "C";
+                Console.WriteLine(grade);
+                return grade;
+            }// end else if for C grade
+            else if ((av >= 80) || (av <= 89))
+            {
+                string grade = "B";
+                Console.WriteLine(grade);
+                return grade;
+            }// end else if for B grade
+            else if ((av >= 90) || (av <= 100))
+            {
+                string grade = "A";
+                Console.WriteLine(grade);
+                return grade;
+            }//end else if for A grade
+            else
+            {
+                string grade = "F";
+                Console.WriteLine(grade);
+                return grade;
+            }//end else for F grade      
+        }//DG end
+    }// class end
+}// main
