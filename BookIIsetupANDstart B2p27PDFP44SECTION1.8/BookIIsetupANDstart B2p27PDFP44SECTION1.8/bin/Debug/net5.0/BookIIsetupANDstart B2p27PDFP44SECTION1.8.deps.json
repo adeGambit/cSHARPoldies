@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BookIIsetupANDstart B2p27PDFP44SECTION1.8/1.0.0": {
+        "runtime": {
+          "BookIIsetupANDstart B2p27PDFP44SECTION1.8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookIIsetupANDstart B2p27PDFP44SECTION1.8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
