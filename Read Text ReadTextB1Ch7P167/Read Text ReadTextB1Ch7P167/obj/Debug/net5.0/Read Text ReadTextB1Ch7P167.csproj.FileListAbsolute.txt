@@ -1,0 +1,16 @@
+C:\Users\lower\source\repos\Read Text ReadTextB1Ch7P167\Read Text ReadTextB1Ch7P167\bin\Debug\net5.0\Read Text ReadTextB1Ch7P167.exe
+C:\Users\lower\source\repos\Read Text ReadTextB1Ch7P167\Read Text ReadTextB1Ch7P167\bin\Debug\net5.0\Read Text ReadTextB1Ch7P167.deps.json
+C:\Users\lower\source\repos\Read Text ReadTextB1Ch7P167\Read Text ReadTextB1Ch7P167\bin\Debug\net5.0\Read Text ReadTextB1Ch7P167.runtimeconfig.json
+C:\Users\lower\source\repos\Read Text ReadTextB1Ch7P167\Read Text ReadTextB1Ch7P167\bin\Debug\net5.0\Read Text ReadTextB1Ch7P167.runtimeconfig.dev.json
+C:\Users\lower\source\repos\Read Text ReadTextB1Ch7P167\Read Text ReadTextB1Ch7P167\bin\Debug\net5.0\Read Text ReadTextB1Ch7P167.dll
+C:\Users\lower\source\repos\Read Text ReadTextB1Ch7P167\Read Text ReadTextB1Ch7P167\bin\Debug\net5.0\ref\Read Text ReadTextB1Ch7P167.dll
+C:\Users\lower\source\repos\Read Text ReadTextB1Ch7P167\Read Text ReadTextB1Ch7P167\bin\Debug\net5.0\Read Text ReadTextB1Ch7P167.pdb
+C:\Users\lower\source\repos\Read Text ReadTextB1Ch7P167\Read Text ReadTextB1Ch7P167\obj\Debug\net5.0\Read Text ReadTextB1Ch7P167.csproj.AssemblyReference.cache
+C:\Users\lower\source\repos\Read Text ReadTextB1Ch7P167\Read Text ReadTextB1Ch7P167\obj\Debug\net5.0\Read Text ReadTextB1Ch7P167.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\Read Text ReadTextB1Ch7P167\Read Text ReadTextB1Ch7P167\obj\Debug\net5.0\Read Text ReadTextB1Ch7P167.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\Read Text ReadTextB1Ch7P167\Read Text ReadTextB1Ch7P167\obj\Debug\net5.0\Read Text ReadTextB1Ch7P167.AssemblyInfo.cs
+C:\Users\lower\source\repos\Read Text ReadTextB1Ch7P167\Read Text ReadTextB1Ch7P167\obj\Debug\net5.0\Read Text ReadTextB1Ch7P167.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\Read Text ReadTextB1Ch7P167\Read Text ReadTextB1Ch7P167\obj\Debug\net5.0\Read Text ReadTextB1Ch7P167.dll
+C:\Users\lower\source\repos\Read Text ReadTextB1Ch7P167\Read Text ReadTextB1Ch7P167\obj\Debug\net5.0\ref\Read Text ReadTextB1Ch7P167.dll
+C:\Users\lower\source\repos\Read Text ReadTextB1Ch7P167\Read Text ReadTextB1Ch7P167\obj\Debug\net5.0\Read Text ReadTextB1Ch7P167.pdb
+C:\Users\lower\source\repos\Read Text ReadTextB1Ch7P167\Read Text ReadTextB1Ch7P167\obj\Debug\net5.0\Read Text ReadTextB1Ch7P167.genruntimeconfig.cache
