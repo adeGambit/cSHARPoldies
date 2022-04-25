@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Constant Constant b1 ch2 p53/1.0.0": {
+        "runtime": {
+          "Constant Constant b1 ch2 p53.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Constant Constant b1 ch2 p53/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
