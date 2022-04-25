@@ -1,0 +1,16 @@
+C:\Users\lower\source\repos\Logic Logic b1 ch3 p72\Logic Logic b1 ch3 p72\bin\Debug\net5.0\Logic Logic b1 ch3 p72.exe
+C:\Users\lower\source\repos\Logic Logic b1 ch3 p72\Logic Logic b1 ch3 p72\bin\Debug\net5.0\Logic Logic b1 ch3 p72.deps.json
+C:\Users\lower\source\repos\Logic Logic b1 ch3 p72\Logic Logic b1 ch3 p72\bin\Debug\net5.0\Logic Logic b1 ch3 p72.runtimeconfig.json
+C:\Users\lower\source\repos\Logic Logic b1 ch3 p72\Logic Logic b1 ch3 p72\bin\Debug\net5.0\Logic Logic b1 ch3 p72.runtimeconfig.dev.json
+C:\Users\lower\source\repos\Logic Logic b1 ch3 p72\Logic Logic b1 ch3 p72\bin\Debug\net5.0\Logic Logic b1 ch3 p72.dll
+C:\Users\lower\source\repos\Logic Logic b1 ch3 p72\Logic Logic b1 ch3 p72\bin\Debug\net5.0\ref\Logic Logic b1 ch3 p72.dll
+C:\Users\lower\source\repos\Logic Logic b1 ch3 p72\Logic Logic b1 ch3 p72\bin\Debug\net5.0\Logic Logic b1 ch3 p72.pdb
+C:\Users\lower\source\repos\Logic Logic b1 ch3 p72\Logic Logic b1 ch3 p72\obj\Debug\net5.0\Logic Logic b1 ch3 p72.csproj.AssemblyReference.cache
+C:\Users\lower\source\repos\Logic Logic b1 ch3 p72\Logic Logic b1 ch3 p72\obj\Debug\net5.0\Logic Logic b1 ch3 p72.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\Logic Logic b1 ch3 p72\Logic Logic b1 ch3 p72\obj\Debug\net5.0\Logic Logic b1 ch3 p72.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\Logic Logic b1 ch3 p72\Logic Logic b1 ch3 p72\obj\Debug\net5.0\Logic Logic b1 ch3 p72.AssemblyInfo.cs
+C:\Users\lower\source\repos\Logic Logic b1 ch3 p72\Logic Logic b1 ch3 p72\obj\Debug\net5.0\Logic Logic b1 ch3 p72.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\Logic Logic b1 ch3 p72\Logic Logic b1 ch3 p72\obj\Debug\net5.0\Logic Logic b1 ch3 p72.dll
+C:\Users\lower\source\repos\Logic Logic b1 ch3 p72\Logic Logic b1 ch3 p72\obj\Debug\net5.0\ref\Logic Logic b1 ch3 p72.dll
+C:\Users\lower\source\repos\Logic Logic b1 ch3 p72\Logic Logic b1 ch3 p72\obj\Debug\net5.0\Logic Logic b1 ch3 p72.pdb
+C:\Users\lower\source\repos\Logic Logic b1 ch3 p72\Logic Logic b1 ch3 p72\obj\Debug\net5.0\Logic Logic b1 ch3 p72.genruntimeconfig.cache

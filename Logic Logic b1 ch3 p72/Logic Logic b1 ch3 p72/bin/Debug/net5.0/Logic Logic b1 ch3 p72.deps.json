@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Logic Logic b1 ch3 p72/1.0.0": {
+        "runtime": {
+          "Logic Logic b1 ch3 p72.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Logic Logic b1 ch3 p72/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
