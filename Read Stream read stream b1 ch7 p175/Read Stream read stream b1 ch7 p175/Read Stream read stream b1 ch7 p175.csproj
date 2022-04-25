@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Read_Stream_read_stream_b1_ch7_p175</RootNamespace>
+  </PropertyGroup>
+
+</Project>

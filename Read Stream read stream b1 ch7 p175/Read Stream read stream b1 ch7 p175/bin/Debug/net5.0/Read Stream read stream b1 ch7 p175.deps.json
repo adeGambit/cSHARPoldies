@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Read Stream read stream b1 ch7 p175/1.0.0": {
+        "runtime": {
+          "Read Stream read stream b1 ch7 p175.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Read Stream read stream b1 ch7 p175/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
