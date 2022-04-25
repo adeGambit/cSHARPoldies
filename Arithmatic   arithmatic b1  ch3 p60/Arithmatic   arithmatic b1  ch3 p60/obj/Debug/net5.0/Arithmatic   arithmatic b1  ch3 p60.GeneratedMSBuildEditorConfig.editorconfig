@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Arithmatic___arithmatic_b1__ch3_p60
+build_property.ProjectDir = C:\Users\lower\source\repos\Arithmatic   arithmatic b1  ch3 p60\Arithmatic   arithmatic b1  ch3 p60\
