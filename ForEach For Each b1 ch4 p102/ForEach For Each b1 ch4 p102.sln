@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEach For Each b1 ch4 p102", "ForEach For Each b1 ch4 p102\ForEach For Each b1 ch4 p102.csproj", "{50492105-42E2-45F0-908C-B2D86E099333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50492105-42E2-45F0-908C-B2D86E099333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50492105-42E2-45F0-908C-B2D86E099333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50492105-42E2-45F0-908C-B2D86E099333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50492105-42E2-45F0-908C-B2D86E099333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB92F4C7-A32C-466F-A043-6911BEC16FB5}
+	EndGlobalSection
+EndGlobal

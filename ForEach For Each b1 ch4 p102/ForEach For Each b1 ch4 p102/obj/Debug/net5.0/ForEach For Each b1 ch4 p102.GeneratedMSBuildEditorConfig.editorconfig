@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = ForEach_For_Each_b1_ch4_p102
+build_property.ProjectDir = C:\Users\lower\source\repos\ForEach For Each b1 ch4 p102\ForEach For Each b1 ch4 p102\

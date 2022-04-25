@@ -1,0 +1,16 @@
+C:\Users\lower\source\repos\ForEach For Each b1 ch4 p102\ForEach For Each b1 ch4 p102\bin\Debug\net5.0\ForEach For Each b1 ch4 p102.exe
+C:\Users\lower\source\repos\ForEach For Each b1 ch4 p102\ForEach For Each b1 ch4 p102\bin\Debug\net5.0\ForEach For Each b1 ch4 p102.deps.json
+C:\Users\lower\source\repos\ForEach For Each b1 ch4 p102\ForEach For Each b1 ch4 p102\bin\Debug\net5.0\ForEach For Each b1 ch4 p102.runtimeconfig.json
+C:\Users\lower\source\repos\ForEach For Each b1 ch4 p102\ForEach For Each b1 ch4 p102\bin\Debug\net5.0\ForEach For Each b1 ch4 p102.runtimeconfig.dev.json
+C:\Users\lower\source\repos\ForEach For Each b1 ch4 p102\ForEach For Each b1 ch4 p102\bin\Debug\net5.0\ForEach For Each b1 ch4 p102.dll
+C:\Users\lower\source\repos\ForEach For Each b1 ch4 p102\ForEach For Each b1 ch4 p102\bin\Debug\net5.0\ref\ForEach For Each b1 ch4 p102.dll
+C:\Users\lower\source\repos\ForEach For Each b1 ch4 p102\ForEach For Each b1 ch4 p102\bin\Debug\net5.0\ForEach For Each b1 ch4 p102.pdb
+C:\Users\lower\source\repos\ForEach For Each b1 ch4 p102\ForEach For Each b1 ch4 p102\obj\Debug\net5.0\ForEach For Each b1 ch4 p102.csproj.AssemblyReference.cache
+C:\Users\lower\source\repos\ForEach For Each b1 ch4 p102\ForEach For Each b1 ch4 p102\obj\Debug\net5.0\ForEach For Each b1 ch4 p102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\ForEach For Each b1 ch4 p102\ForEach For Each b1 ch4 p102\obj\Debug\net5.0\ForEach For Each b1 ch4 p102.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\ForEach For Each b1 ch4 p102\ForEach For Each b1 ch4 p102\obj\Debug\net5.0\ForEach For Each b1 ch4 p102.AssemblyInfo.cs
+C:\Users\lower\source\repos\ForEach For Each b1 ch4 p102\ForEach For Each b1 ch4 p102\obj\Debug\net5.0\ForEach For Each b1 ch4 p102.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\ForEach For Each b1 ch4 p102\ForEach For Each b1 ch4 p102\obj\Debug\net5.0\ForEach For Each b1 ch4 p102.dll
+C:\Users\lower\source\repos\ForEach For Each b1 ch4 p102\ForEach For Each b1 ch4 p102\obj\Debug\net5.0\ref\ForEach For Each b1 ch4 p102.dll
+C:\Users\lower\source\repos\ForEach For Each b1 ch4 p102\ForEach For Each b1 ch4 p102\obj\Debug\net5.0\ForEach For Each b1 ch4 p102.pdb
+C:\Users\lower\source\repos\ForEach For Each b1 ch4 p102\ForEach For Each b1 ch4 p102\obj\Debug\net5.0\ForEach For Each b1 ch4 p102.genruntimeconfig.cache
