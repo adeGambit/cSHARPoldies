@@ -1,0 +1,16 @@
+C:\Users\lower\source\repos\variables(b1p37)\variables(b1p37)\bin\Debug\net5.0\variables(b1p37).exe
+C:\Users\lower\source\repos\variables(b1p37)\variables(b1p37)\bin\Debug\net5.0\variables(b1p37).deps.json
+C:\Users\lower\source\repos\variables(b1p37)\variables(b1p37)\bin\Debug\net5.0\variables(b1p37).runtimeconfig.json
+C:\Users\lower\source\repos\variables(b1p37)\variables(b1p37)\bin\Debug\net5.0\variables(b1p37).runtimeconfig.dev.json
+C:\Users\lower\source\repos\variables(b1p37)\variables(b1p37)\bin\Debug\net5.0\variables(b1p37).dll
+C:\Users\lower\source\repos\variables(b1p37)\variables(b1p37)\bin\Debug\net5.0\ref\variables(b1p37).dll
+C:\Users\lower\source\repos\variables(b1p37)\variables(b1p37)\bin\Debug\net5.0\variables(b1p37).pdb
+C:\Users\lower\source\repos\variables(b1p37)\variables(b1p37)\obj\Debug\net5.0\variables(b1p37).csproj.AssemblyReference.cache
+C:\Users\lower\source\repos\variables(b1p37)\variables(b1p37)\obj\Debug\net5.0\variables(b1p37).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\variables(b1p37)\variables(b1p37)\obj\Debug\net5.0\variables(b1p37).AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\variables(b1p37)\variables(b1p37)\obj\Debug\net5.0\variables(b1p37).AssemblyInfo.cs
+C:\Users\lower\source\repos\variables(b1p37)\variables(b1p37)\obj\Debug\net5.0\variables(b1p37).csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\variables(b1p37)\variables(b1p37)\obj\Debug\net5.0\variables(b1p37).dll
+C:\Users\lower\source\repos\variables(b1p37)\variables(b1p37)\obj\Debug\net5.0\ref\variables(b1p37).dll
+C:\Users\lower\source\repos\variables(b1p37)\variables(b1p37)\obj\Debug\net5.0\variables(b1p37).pdb
+C:\Users\lower\source\repos\variables(b1p37)\variables(b1p37)\obj\Debug\net5.0\variables(b1p37).genruntimeconfig.cache
