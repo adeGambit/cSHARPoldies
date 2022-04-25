@@ -1,0 +1,16 @@
+C:\Users\lower\source\repos\DRTEb1ch8p182\DRTEb1ch8p182\bin\Debug\net5.0\DRTEb1ch8p182.exe
+C:\Users\lower\source\repos\DRTEb1ch8p182\DRTEb1ch8p182\bin\Debug\net5.0\DRTEb1ch8p182.deps.json
+C:\Users\lower\source\repos\DRTEb1ch8p182\DRTEb1ch8p182\bin\Debug\net5.0\DRTEb1ch8p182.runtimeconfig.json
+C:\Users\lower\source\repos\DRTEb1ch8p182\DRTEb1ch8p182\bin\Debug\net5.0\DRTEb1ch8p182.runtimeconfig.dev.json
+C:\Users\lower\source\repos\DRTEb1ch8p182\DRTEb1ch8p182\bin\Debug\net5.0\DRTEb1ch8p182.dll
+C:\Users\lower\source\repos\DRTEb1ch8p182\DRTEb1ch8p182\bin\Debug\net5.0\ref\DRTEb1ch8p182.dll
+C:\Users\lower\source\repos\DRTEb1ch8p182\DRTEb1ch8p182\bin\Debug\net5.0\DRTEb1ch8p182.pdb
+C:\Users\lower\source\repos\DRTEb1ch8p182\DRTEb1ch8p182\obj\Debug\net5.0\DRTEb1ch8p182.csproj.AssemblyReference.cache
+C:\Users\lower\source\repos\DRTEb1ch8p182\DRTEb1ch8p182\obj\Debug\net5.0\DRTEb1ch8p182.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\DRTEb1ch8p182\DRTEb1ch8p182\obj\Debug\net5.0\DRTEb1ch8p182.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\DRTEb1ch8p182\DRTEb1ch8p182\obj\Debug\net5.0\DRTEb1ch8p182.AssemblyInfo.cs
+C:\Users\lower\source\repos\DRTEb1ch8p182\DRTEb1ch8p182\obj\Debug\net5.0\DRTEb1ch8p182.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\DRTEb1ch8p182\DRTEb1ch8p182\obj\Debug\net5.0\DRTEb1ch8p182.dll
+C:\Users\lower\source\repos\DRTEb1ch8p182\DRTEb1ch8p182\obj\Debug\net5.0\ref\DRTEb1ch8p182.dll
+C:\Users\lower\source\repos\DRTEb1ch8p182\DRTEb1ch8p182\obj\Debug\net5.0\DRTEb1ch8p182.pdb
+C:\Users\lower\source\repos\DRTEb1ch8p182\DRTEb1ch8p182\obj\Debug\net5.0\DRTEb1ch8p182.genruntimeconfig.cache
