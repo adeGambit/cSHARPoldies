@@ -1,0 +1,15 @@
+C:\Users\lower\source\repos\MY FIRST PROJECT b2p27pdfp44\MY FIRST PROJECT b2p27pdfp44\bin\Debug\net5.0\MY FIRST PROJECT b2p27pdfp44.exe
+C:\Users\lower\source\repos\MY FIRST PROJECT b2p27pdfp44\MY FIRST PROJECT b2p27pdfp44\bin\Debug\net5.0\MY FIRST PROJECT b2p27pdfp44.deps.json
+C:\Users\lower\source\repos\MY FIRST PROJECT b2p27pdfp44\MY FIRST PROJECT b2p27pdfp44\bin\Debug\net5.0\MY FIRST PROJECT b2p27pdfp44.runtimeconfig.json
+C:\Users\lower\source\repos\MY FIRST PROJECT b2p27pdfp44\MY FIRST PROJECT b2p27pdfp44\bin\Debug\net5.0\MY FIRST PROJECT b2p27pdfp44.runtimeconfig.dev.json
+C:\Users\lower\source\repos\MY FIRST PROJECT b2p27pdfp44\MY FIRST PROJECT b2p27pdfp44\bin\Debug\net5.0\MY FIRST PROJECT b2p27pdfp44.dll
+C:\Users\lower\source\repos\MY FIRST PROJECT b2p27pdfp44\MY FIRST PROJECT b2p27pdfp44\bin\Debug\net5.0\ref\MY FIRST PROJECT b2p27pdfp44.dll
+C:\Users\lower\source\repos\MY FIRST PROJECT b2p27pdfp44\MY FIRST PROJECT b2p27pdfp44\bin\Debug\net5.0\MY FIRST PROJECT b2p27pdfp44.pdb
+C:\Users\lower\source\repos\MY FIRST PROJECT b2p27pdfp44\MY FIRST PROJECT b2p27pdfp44\obj\Debug\net5.0\MY FIRST PROJECT b2p27pdfp44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\MY FIRST PROJECT b2p27pdfp44\MY FIRST PROJECT b2p27pdfp44\obj\Debug\net5.0\MY FIRST PROJECT b2p27pdfp44.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\MY FIRST PROJECT b2p27pdfp44\MY FIRST PROJECT b2p27pdfp44\obj\Debug\net5.0\MY FIRST PROJECT b2p27pdfp44.AssemblyInfo.cs
+C:\Users\lower\source\repos\MY FIRST PROJECT b2p27pdfp44\MY FIRST PROJECT b2p27pdfp44\obj\Debug\net5.0\MY FIRST PROJECT b2p27pdfp44.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\MY FIRST PROJECT b2p27pdfp44\MY FIRST PROJECT b2p27pdfp44\obj\Debug\net5.0\MY FIRST PROJECT b2p27pdfp44.dll
+C:\Users\lower\source\repos\MY FIRST PROJECT b2p27pdfp44\MY FIRST PROJECT b2p27pdfp44\obj\Debug\net5.0\ref\MY FIRST PROJECT b2p27pdfp44.dll
+C:\Users\lower\source\repos\MY FIRST PROJECT b2p27pdfp44\MY FIRST PROJECT b2p27pdfp44\obj\Debug\net5.0\MY FIRST PROJECT b2p27pdfp44.pdb
+C:\Users\lower\source\repos\MY FIRST PROJECT b2p27pdfp44\MY FIRST PROJECT b2p27pdfp44\obj\Debug\net5.0\MY FIRST PROJECT b2p27pdfp44.genruntimeconfig.cache
