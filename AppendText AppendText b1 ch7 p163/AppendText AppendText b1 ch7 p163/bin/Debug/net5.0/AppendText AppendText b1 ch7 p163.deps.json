@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AppendText AppendText b1 ch7 p163/1.0.0": {
+        "runtime": {
+          "AppendText AppendText b1 ch7 p163.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppendText AppendText b1 ch7 p163/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

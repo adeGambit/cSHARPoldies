@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: Write Stream WriteStreamB1Ch7P171, Configuration: Debug Any CPU ------
+1>C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\Program.cs(23,21,23,28): error CS0030: Cannot convert type 'char' to 'string'
+1>C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\Program.cs(25,41,25,47): error CS0136: A local or parameter named 'writer' cannot be declared in this scope because that name is used in an enclosing local scope to define a local or parameter
+1>C:\Users\lower\source\repos\Write Stream WriteStreamB1Ch7P171\Write Stream WriteStreamB1Ch7P171\Program.cs(16,20,16,26): warning CS0219: The variable 'attrib' is assigned but its value is never used
+1>Done building project "Write Stream WriteStreamB1Ch7P171.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
