@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Precedence_Precedence_b1_ch3_p80
+build_property.ProjectDir = C:\Users\lower\source\repos\Precedence Precedence b1 ch3 p80\Precedence Precedence b1 ch3 p80\

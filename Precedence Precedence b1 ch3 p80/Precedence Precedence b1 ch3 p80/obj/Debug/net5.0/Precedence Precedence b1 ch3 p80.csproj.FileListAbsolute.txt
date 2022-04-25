@@ -1,0 +1,16 @@
+C:\Users\lower\source\repos\Precedence Precedence b1 ch3 p80\Precedence Precedence b1 ch3 p80\bin\Debug\net5.0\Precedence Precedence b1 ch3 p80.exe
+C:\Users\lower\source\repos\Precedence Precedence b1 ch3 p80\Precedence Precedence b1 ch3 p80\bin\Debug\net5.0\Precedence Precedence b1 ch3 p80.deps.json
+C:\Users\lower\source\repos\Precedence Precedence b1 ch3 p80\Precedence Precedence b1 ch3 p80\bin\Debug\net5.0\Precedence Precedence b1 ch3 p80.runtimeconfig.json
+C:\Users\lower\source\repos\Precedence Precedence b1 ch3 p80\Precedence Precedence b1 ch3 p80\bin\Debug\net5.0\Precedence Precedence b1 ch3 p80.runtimeconfig.dev.json
+C:\Users\lower\source\repos\Precedence Precedence b1 ch3 p80\Precedence Precedence b1 ch3 p80\bin\Debug\net5.0\Precedence Precedence b1 ch3 p80.dll
+C:\Users\lower\source\repos\Precedence Precedence b1 ch3 p80\Precedence Precedence b1 ch3 p80\bin\Debug\net5.0\ref\Precedence Precedence b1 ch3 p80.dll
+C:\Users\lower\source\repos\Precedence Precedence b1 ch3 p80\Precedence Precedence b1 ch3 p80\bin\Debug\net5.0\Precedence Precedence b1 ch3 p80.pdb
+C:\Users\lower\source\repos\Precedence Precedence b1 ch3 p80\Precedence Precedence b1 ch3 p80\obj\Debug\net5.0\Precedence Precedence b1 ch3 p80.csproj.AssemblyReference.cache
+C:\Users\lower\source\repos\Precedence Precedence b1 ch3 p80\Precedence Precedence b1 ch3 p80\obj\Debug\net5.0\Precedence Precedence b1 ch3 p80.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\Precedence Precedence b1 ch3 p80\Precedence Precedence b1 ch3 p80\obj\Debug\net5.0\Precedence Precedence b1 ch3 p80.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\Precedence Precedence b1 ch3 p80\Precedence Precedence b1 ch3 p80\obj\Debug\net5.0\Precedence Precedence b1 ch3 p80.AssemblyInfo.cs
+C:\Users\lower\source\repos\Precedence Precedence b1 ch3 p80\Precedence Precedence b1 ch3 p80\obj\Debug\net5.0\Precedence Precedence b1 ch3 p80.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\Precedence Precedence b1 ch3 p80\Precedence Precedence b1 ch3 p80\obj\Debug\net5.0\Precedence Precedence b1 ch3 p80.dll
+C:\Users\lower\source\repos\Precedence Precedence b1 ch3 p80\Precedence Precedence b1 ch3 p80\obj\Debug\net5.0\ref\Precedence Precedence b1 ch3 p80.dll
+C:\Users\lower\source\repos\Precedence Precedence b1 ch3 p80\Precedence Precedence b1 ch3 p80\obj\Debug\net5.0\Precedence Precedence b1 ch3 p80.pdb
+C:\Users\lower\source\repos\Precedence Precedence b1 ch3 p80\Precedence Precedence b1 ch3 p80\obj\Debug\net5.0\Precedence Precedence b1 ch3 p80.genruntimeconfig.cache
