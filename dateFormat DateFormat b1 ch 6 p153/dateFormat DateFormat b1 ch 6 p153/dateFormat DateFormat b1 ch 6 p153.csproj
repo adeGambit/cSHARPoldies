@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>dateFormat_DateFormat_b1_ch_6_p153</RootNamespace>
+  </PropertyGroup>
+
+</Project>

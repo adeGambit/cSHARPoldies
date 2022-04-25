@@ -1,0 +1,16 @@
+C:\Users\lower\source\repos\dateFormat DateFormat b1 ch 6 p153\dateFormat DateFormat b1 ch 6 p153\bin\Debug\net5.0\dateFormat DateFormat b1 ch 6 p153.exe
+C:\Users\lower\source\repos\dateFormat DateFormat b1 ch 6 p153\dateFormat DateFormat b1 ch 6 p153\bin\Debug\net5.0\dateFormat DateFormat b1 ch 6 p153.deps.json
+C:\Users\lower\source\repos\dateFormat DateFormat b1 ch 6 p153\dateFormat DateFormat b1 ch 6 p153\bin\Debug\net5.0\dateFormat DateFormat b1 ch 6 p153.runtimeconfig.json
+C:\Users\lower\source\repos\dateFormat DateFormat b1 ch 6 p153\dateFormat DateFormat b1 ch 6 p153\bin\Debug\net5.0\dateFormat DateFormat b1 ch 6 p153.runtimeconfig.dev.json
+C:\Users\lower\source\repos\dateFormat DateFormat b1 ch 6 p153\dateFormat DateFormat b1 ch 6 p153\bin\Debug\net5.0\dateFormat DateFormat b1 ch 6 p153.dll
+C:\Users\lower\source\repos\dateFormat DateFormat b1 ch 6 p153\dateFormat DateFormat b1 ch 6 p153\bin\Debug\net5.0\ref\dateFormat DateFormat b1 ch 6 p153.dll
+C:\Users\lower\source\repos\dateFormat DateFormat b1 ch 6 p153\dateFormat DateFormat b1 ch 6 p153\bin\Debug\net5.0\dateFormat DateFormat b1 ch 6 p153.pdb
+C:\Users\lower\source\repos\dateFormat DateFormat b1 ch 6 p153\dateFormat DateFormat b1 ch 6 p153\obj\Debug\net5.0\dateFormat DateFormat b1 ch 6 p153.csproj.AssemblyReference.cache
+C:\Users\lower\source\repos\dateFormat DateFormat b1 ch 6 p153\dateFormat DateFormat b1 ch 6 p153\obj\Debug\net5.0\dateFormat DateFormat b1 ch 6 p153.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\dateFormat DateFormat b1 ch 6 p153\dateFormat DateFormat b1 ch 6 p153\obj\Debug\net5.0\dateFormat DateFormat b1 ch 6 p153.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\dateFormat DateFormat b1 ch 6 p153\dateFormat DateFormat b1 ch 6 p153\obj\Debug\net5.0\dateFormat DateFormat b1 ch 6 p153.AssemblyInfo.cs
+C:\Users\lower\source\repos\dateFormat DateFormat b1 ch 6 p153\dateFormat DateFormat b1 ch 6 p153\obj\Debug\net5.0\dateFormat DateFormat b1 ch 6 p153.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\dateFormat DateFormat b1 ch 6 p153\dateFormat DateFormat b1 ch 6 p153\obj\Debug\net5.0\dateFormat DateFormat b1 ch 6 p153.dll
+C:\Users\lower\source\repos\dateFormat DateFormat b1 ch 6 p153\dateFormat DateFormat b1 ch 6 p153\obj\Debug\net5.0\ref\dateFormat DateFormat b1 ch 6 p153.dll
+C:\Users\lower\source\repos\dateFormat DateFormat b1 ch 6 p153\dateFormat DateFormat b1 ch 6 p153\obj\Debug\net5.0\dateFormat DateFormat b1 ch 6 p153.pdb
+C:\Users\lower\source\repos\dateFormat DateFormat b1 ch 6 p153\dateFormat DateFormat b1 ch 6 p153\obj\Debug\net5.0\dateFormat DateFormat b1 ch 6 p153.genruntimeconfig.cache

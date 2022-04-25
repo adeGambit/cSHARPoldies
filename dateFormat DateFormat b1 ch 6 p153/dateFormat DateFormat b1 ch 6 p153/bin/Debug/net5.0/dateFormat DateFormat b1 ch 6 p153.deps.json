@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "dateFormat DateFormat b1 ch 6 p153/1.0.0": {
+        "runtime": {
+          "dateFormat DateFormat b1 ch 6 p153.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dateFormat DateFormat b1 ch 6 p153/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
