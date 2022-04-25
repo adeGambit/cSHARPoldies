@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Parameter ParameterPASSINGargument b1 ch 5 p114/1.0.0": {
+        "runtime": {
+          "Parameter ParameterPASSINGargument b1 ch 5 p114.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parameter ParameterPASSINGargument b1 ch 5 p114/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
