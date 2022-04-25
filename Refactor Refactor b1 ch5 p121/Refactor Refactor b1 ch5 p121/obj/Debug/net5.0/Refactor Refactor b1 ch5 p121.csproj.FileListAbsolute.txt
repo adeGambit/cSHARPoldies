@@ -1,0 +1,16 @@
+C:\Users\lower\source\repos\Refactor Refactor b1 ch5 p121\Refactor Refactor b1 ch5 p121\bin\Debug\net5.0\Refactor Refactor b1 ch5 p121.exe
+C:\Users\lower\source\repos\Refactor Refactor b1 ch5 p121\Refactor Refactor b1 ch5 p121\bin\Debug\net5.0\Refactor Refactor b1 ch5 p121.deps.json
+C:\Users\lower\source\repos\Refactor Refactor b1 ch5 p121\Refactor Refactor b1 ch5 p121\bin\Debug\net5.0\Refactor Refactor b1 ch5 p121.runtimeconfig.json
+C:\Users\lower\source\repos\Refactor Refactor b1 ch5 p121\Refactor Refactor b1 ch5 p121\bin\Debug\net5.0\Refactor Refactor b1 ch5 p121.runtimeconfig.dev.json
+C:\Users\lower\source\repos\Refactor Refactor b1 ch5 p121\Refactor Refactor b1 ch5 p121\bin\Debug\net5.0\Refactor Refactor b1 ch5 p121.dll
+C:\Users\lower\source\repos\Refactor Refactor b1 ch5 p121\Refactor Refactor b1 ch5 p121\bin\Debug\net5.0\ref\Refactor Refactor b1 ch5 p121.dll
+C:\Users\lower\source\repos\Refactor Refactor b1 ch5 p121\Refactor Refactor b1 ch5 p121\bin\Debug\net5.0\Refactor Refactor b1 ch5 p121.pdb
+C:\Users\lower\source\repos\Refactor Refactor b1 ch5 p121\Refactor Refactor b1 ch5 p121\obj\Debug\net5.0\Refactor Refactor b1 ch5 p121.csproj.AssemblyReference.cache
+C:\Users\lower\source\repos\Refactor Refactor b1 ch5 p121\Refactor Refactor b1 ch5 p121\obj\Debug\net5.0\Refactor Refactor b1 ch5 p121.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\Refactor Refactor b1 ch5 p121\Refactor Refactor b1 ch5 p121\obj\Debug\net5.0\Refactor Refactor b1 ch5 p121.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\Refactor Refactor b1 ch5 p121\Refactor Refactor b1 ch5 p121\obj\Debug\net5.0\Refactor Refactor b1 ch5 p121.AssemblyInfo.cs
+C:\Users\lower\source\repos\Refactor Refactor b1 ch5 p121\Refactor Refactor b1 ch5 p121\obj\Debug\net5.0\Refactor Refactor b1 ch5 p121.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\Refactor Refactor b1 ch5 p121\Refactor Refactor b1 ch5 p121\obj\Debug\net5.0\Refactor Refactor b1 ch5 p121.dll
+C:\Users\lower\source\repos\Refactor Refactor b1 ch5 p121\Refactor Refactor b1 ch5 p121\obj\Debug\net5.0\ref\Refactor Refactor b1 ch5 p121.dll
+C:\Users\lower\source\repos\Refactor Refactor b1 ch5 p121\Refactor Refactor b1 ch5 p121\obj\Debug\net5.0\Refactor Refactor b1 ch5 p121.pdb
+C:\Users\lower\source\repos\Refactor Refactor b1 ch5 p121\Refactor Refactor b1 ch5 p121\obj\Debug\net5.0\Refactor Refactor b1 ch5 p121.genruntimeconfig.cache

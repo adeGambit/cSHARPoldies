@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Refactor_Refactor_b1_ch5_p121
+build_property.ProjectDir = C:\Users\lower\source\repos\Refactor Refactor b1 ch5 p121\Refactor Refactor b1 ch5 p121\
