@@ -1,0 +1,16 @@
+C:\Users\lower\source\repos\Condition Condition b1 ch3 p76\Condition Condition b1 ch3 p76\obj\Debug\net5.0\Condition Condition b1 ch3 p76.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\Condition Condition b1 ch3 p76\Condition Condition b1 ch3 p76\obj\Debug\net5.0\Condition Condition b1 ch3 p76.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\Condition Condition b1 ch3 p76\Condition Condition b1 ch3 p76\obj\Debug\net5.0\Condition Condition b1 ch3 p76.AssemblyInfo.cs
+C:\Users\lower\source\repos\Condition Condition b1 ch3 p76\Condition Condition b1 ch3 p76\obj\Debug\net5.0\Condition Condition b1 ch3 p76.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\Condition Condition b1 ch3 p76\Condition Condition b1 ch3 p76\bin\Debug\net5.0\Condition Condition b1 ch3 p76.exe
+C:\Users\lower\source\repos\Condition Condition b1 ch3 p76\Condition Condition b1 ch3 p76\bin\Debug\net5.0\Condition Condition b1 ch3 p76.deps.json
+C:\Users\lower\source\repos\Condition Condition b1 ch3 p76\Condition Condition b1 ch3 p76\bin\Debug\net5.0\Condition Condition b1 ch3 p76.runtimeconfig.json
+C:\Users\lower\source\repos\Condition Condition b1 ch3 p76\Condition Condition b1 ch3 p76\bin\Debug\net5.0\Condition Condition b1 ch3 p76.runtimeconfig.dev.json
+C:\Users\lower\source\repos\Condition Condition b1 ch3 p76\Condition Condition b1 ch3 p76\bin\Debug\net5.0\Condition Condition b1 ch3 p76.dll
+C:\Users\lower\source\repos\Condition Condition b1 ch3 p76\Condition Condition b1 ch3 p76\bin\Debug\net5.0\ref\Condition Condition b1 ch3 p76.dll
+C:\Users\lower\source\repos\Condition Condition b1 ch3 p76\Condition Condition b1 ch3 p76\bin\Debug\net5.0\Condition Condition b1 ch3 p76.pdb
+C:\Users\lower\source\repos\Condition Condition b1 ch3 p76\Condition Condition b1 ch3 p76\obj\Debug\net5.0\Condition Condition b1 ch3 p76.dll
+C:\Users\lower\source\repos\Condition Condition b1 ch3 p76\Condition Condition b1 ch3 p76\obj\Debug\net5.0\ref\Condition Condition b1 ch3 p76.dll
+C:\Users\lower\source\repos\Condition Condition b1 ch3 p76\Condition Condition b1 ch3 p76\obj\Debug\net5.0\Condition Condition b1 ch3 p76.pdb
+C:\Users\lower\source\repos\Condition Condition b1 ch3 p76\Condition Condition b1 ch3 p76\obj\Debug\net5.0\Condition Condition b1 ch3 p76.genruntimeconfig.cache
+C:\Users\lower\source\repos\Condition Condition b1 ch3 p76\Condition Condition b1 ch3 p76\obj\Debug\net5.0\Condition Condition b1 ch3 p76.csproj.AssemblyReference.cache
