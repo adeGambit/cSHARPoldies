@@ -1,0 +1,16 @@
+C:\Users\lower\source\repos\Manipulate Manipulate b1 ch6 p132\Manipulate Manipulate b1 ch6 p132\bin\Debug\net5.0\Manipulate Manipulate b1 ch6 p132.exe
+C:\Users\lower\source\repos\Manipulate Manipulate b1 ch6 p132\Manipulate Manipulate b1 ch6 p132\bin\Debug\net5.0\Manipulate Manipulate b1 ch6 p132.deps.json
+C:\Users\lower\source\repos\Manipulate Manipulate b1 ch6 p132\Manipulate Manipulate b1 ch6 p132\bin\Debug\net5.0\Manipulate Manipulate b1 ch6 p132.runtimeconfig.json
+C:\Users\lower\source\repos\Manipulate Manipulate b1 ch6 p132\Manipulate Manipulate b1 ch6 p132\bin\Debug\net5.0\Manipulate Manipulate b1 ch6 p132.runtimeconfig.dev.json
+C:\Users\lower\source\repos\Manipulate Manipulate b1 ch6 p132\Manipulate Manipulate b1 ch6 p132\bin\Debug\net5.0\Manipulate Manipulate b1 ch6 p132.dll
+C:\Users\lower\source\repos\Manipulate Manipulate b1 ch6 p132\Manipulate Manipulate b1 ch6 p132\bin\Debug\net5.0\ref\Manipulate Manipulate b1 ch6 p132.dll
+C:\Users\lower\source\repos\Manipulate Manipulate b1 ch6 p132\Manipulate Manipulate b1 ch6 p132\bin\Debug\net5.0\Manipulate Manipulate b1 ch6 p132.pdb
+C:\Users\lower\source\repos\Manipulate Manipulate b1 ch6 p132\Manipulate Manipulate b1 ch6 p132\obj\Debug\net5.0\Manipulate Manipulate b1 ch6 p132.csproj.AssemblyReference.cache
+C:\Users\lower\source\repos\Manipulate Manipulate b1 ch6 p132\Manipulate Manipulate b1 ch6 p132\obj\Debug\net5.0\Manipulate Manipulate b1 ch6 p132.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\Manipulate Manipulate b1 ch6 p132\Manipulate Manipulate b1 ch6 p132\obj\Debug\net5.0\Manipulate Manipulate b1 ch6 p132.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\Manipulate Manipulate b1 ch6 p132\Manipulate Manipulate b1 ch6 p132\obj\Debug\net5.0\Manipulate Manipulate b1 ch6 p132.AssemblyInfo.cs
+C:\Users\lower\source\repos\Manipulate Manipulate b1 ch6 p132\Manipulate Manipulate b1 ch6 p132\obj\Debug\net5.0\Manipulate Manipulate b1 ch6 p132.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\Manipulate Manipulate b1 ch6 p132\Manipulate Manipulate b1 ch6 p132\obj\Debug\net5.0\Manipulate Manipulate b1 ch6 p132.dll
+C:\Users\lower\source\repos\Manipulate Manipulate b1 ch6 p132\Manipulate Manipulate b1 ch6 p132\obj\Debug\net5.0\ref\Manipulate Manipulate b1 ch6 p132.dll
+C:\Users\lower\source\repos\Manipulate Manipulate b1 ch6 p132\Manipulate Manipulate b1 ch6 p132\obj\Debug\net5.0\Manipulate Manipulate b1 ch6 p132.pdb
+C:\Users\lower\source\repos\Manipulate Manipulate b1 ch6 p132\Manipulate Manipulate b1 ch6 p132\obj\Debug\net5.0\Manipulate Manipulate b1 ch6 p132.genruntimeconfig.cache

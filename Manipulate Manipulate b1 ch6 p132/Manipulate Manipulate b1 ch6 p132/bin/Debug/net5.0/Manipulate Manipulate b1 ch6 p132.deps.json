@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Manipulate Manipulate b1 ch6 p132/1.0.0": {
+        "runtime": {
+          "Manipulate Manipulate b1 ch6 p132.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Manipulate Manipulate b1 ch6 p132/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

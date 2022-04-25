@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Manipulate_Manipulate_b1_ch6_p132
+build_property.ProjectDir = C:\Users\lower\source\repos\Manipulate Manipulate b1 ch6 p132\Manipulate Manipulate b1 ch6 p132\
