@@ -1,0 +1,10 @@
+C:\Users\lower\source\repos\Political Joke\Political Joke\bin\Debug\Political Joke.exe.config
+C:\Users\lower\source\repos\Political Joke\Political Joke\bin\Debug\Political Joke.exe
+C:\Users\lower\source\repos\Political Joke\Political Joke\bin\Debug\Political Joke.pdb
+C:\Users\lower\source\repos\Political Joke\Political Joke\obj\Debug\Political Joke.csproj.AssemblyReference.cache
+C:\Users\lower\source\repos\Political Joke\Political Joke\obj\Debug\Political_Joke.poloticalJoke.resources
+C:\Users\lower\source\repos\Political Joke\Political Joke\obj\Debug\Political_Joke.Properties.Resources.resources
+C:\Users\lower\source\repos\Political Joke\Political Joke\obj\Debug\Political Joke.csproj.GenerateResource.cache
+C:\Users\lower\source\repos\Political Joke\Political Joke\obj\Debug\Political Joke.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\Political Joke\Political Joke\obj\Debug\Political Joke.exe
+C:\Users\lower\source\repos\Political Joke\Political Joke\obj\Debug\Political Joke.pdb
