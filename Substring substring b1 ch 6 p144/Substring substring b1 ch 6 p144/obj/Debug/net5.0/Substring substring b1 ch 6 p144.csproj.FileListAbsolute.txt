@@ -1,0 +1,16 @@
+C:\Users\lower\source\repos\Substring substring b1 ch 6 p144\Substring substring b1 ch 6 p144\bin\Debug\net5.0\Substring substring b1 ch 6 p144.exe
+C:\Users\lower\source\repos\Substring substring b1 ch 6 p144\Substring substring b1 ch 6 p144\bin\Debug\net5.0\Substring substring b1 ch 6 p144.deps.json
+C:\Users\lower\source\repos\Substring substring b1 ch 6 p144\Substring substring b1 ch 6 p144\bin\Debug\net5.0\Substring substring b1 ch 6 p144.runtimeconfig.json
+C:\Users\lower\source\repos\Substring substring b1 ch 6 p144\Substring substring b1 ch 6 p144\bin\Debug\net5.0\Substring substring b1 ch 6 p144.runtimeconfig.dev.json
+C:\Users\lower\source\repos\Substring substring b1 ch 6 p144\Substring substring b1 ch 6 p144\bin\Debug\net5.0\Substring substring b1 ch 6 p144.dll
+C:\Users\lower\source\repos\Substring substring b1 ch 6 p144\Substring substring b1 ch 6 p144\bin\Debug\net5.0\ref\Substring substring b1 ch 6 p144.dll
+C:\Users\lower\source\repos\Substring substring b1 ch 6 p144\Substring substring b1 ch 6 p144\bin\Debug\net5.0\Substring substring b1 ch 6 p144.pdb
+C:\Users\lower\source\repos\Substring substring b1 ch 6 p144\Substring substring b1 ch 6 p144\obj\Debug\net5.0\Substring substring b1 ch 6 p144.csproj.AssemblyReference.cache
+C:\Users\lower\source\repos\Substring substring b1 ch 6 p144\Substring substring b1 ch 6 p144\obj\Debug\net5.0\Substring substring b1 ch 6 p144.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\Substring substring b1 ch 6 p144\Substring substring b1 ch 6 p144\obj\Debug\net5.0\Substring substring b1 ch 6 p144.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\Substring substring b1 ch 6 p144\Substring substring b1 ch 6 p144\obj\Debug\net5.0\Substring substring b1 ch 6 p144.AssemblyInfo.cs
+C:\Users\lower\source\repos\Substring substring b1 ch 6 p144\Substring substring b1 ch 6 p144\obj\Debug\net5.0\Substring substring b1 ch 6 p144.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\Substring substring b1 ch 6 p144\Substring substring b1 ch 6 p144\obj\Debug\net5.0\Substring substring b1 ch 6 p144.dll
+C:\Users\lower\source\repos\Substring substring b1 ch 6 p144\Substring substring b1 ch 6 p144\obj\Debug\net5.0\ref\Substring substring b1 ch 6 p144.dll
+C:\Users\lower\source\repos\Substring substring b1 ch 6 p144\Substring substring b1 ch 6 p144\obj\Debug\net5.0\Substring substring b1 ch 6 p144.pdb
+C:\Users\lower\source\repos\Substring substring b1 ch 6 p144\Substring substring b1 ch 6 p144\obj\Debug\net5.0\Substring substring b1 ch 6 p144.genruntimeconfig.cache
