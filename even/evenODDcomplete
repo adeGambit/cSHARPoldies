@@ -1,0 +1,40 @@
+using System;
+
+namespace evenOdd
+
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int userin;//integer declared
+            //bool even;//bool even declared
+            //bool odd;//bool odd declared
+            Console.WriteLine("Dearest User, Please input an integer for even/odd discernment!");//request of user
+            userin = int.Parse(Console.ReadLine());//converting user input to integer for discernment on odd/even
+            Even(userin);
+            Odd(userin);
+
+        }//main end
+        static bool Even(int userin)
+        {//even function open
+            if (userin % 2 == 0)
+            {//if open
+
+                Console.WriteLine("even");
+                return true;
+            }//if close
+            else return false;
+        }//even funciton end
+         static bool Odd(int userin)
+        {//odd funciton open
+
+            if (userin % 2 != 0)
+            {// if open
+                Console.WriteLine("odd");
+                return true;
+            }//if close
+            else return false;
+        }//odd function end
+    }//class end
+}//ns end
