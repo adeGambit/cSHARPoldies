@@ -1,0 +1,15 @@
+C:\Users\lower\source\repos\ForLoop For Loop b1 ch4 p95\ForLoop For Loop b1 ch4 p95\bin\Debug\net5.0\ForLoop For Loop b1 ch4 p95.exe
+C:\Users\lower\source\repos\ForLoop For Loop b1 ch4 p95\ForLoop For Loop b1 ch4 p95\bin\Debug\net5.0\ForLoop For Loop b1 ch4 p95.deps.json
+C:\Users\lower\source\repos\ForLoop For Loop b1 ch4 p95\ForLoop For Loop b1 ch4 p95\bin\Debug\net5.0\ForLoop For Loop b1 ch4 p95.runtimeconfig.json
+C:\Users\lower\source\repos\ForLoop For Loop b1 ch4 p95\ForLoop For Loop b1 ch4 p95\bin\Debug\net5.0\ForLoop For Loop b1 ch4 p95.runtimeconfig.dev.json
+C:\Users\lower\source\repos\ForLoop For Loop b1 ch4 p95\ForLoop For Loop b1 ch4 p95\bin\Debug\net5.0\ForLoop For Loop b1 ch4 p95.dll
+C:\Users\lower\source\repos\ForLoop For Loop b1 ch4 p95\ForLoop For Loop b1 ch4 p95\bin\Debug\net5.0\ref\ForLoop For Loop b1 ch4 p95.dll
+C:\Users\lower\source\repos\ForLoop For Loop b1 ch4 p95\ForLoop For Loop b1 ch4 p95\bin\Debug\net5.0\ForLoop For Loop b1 ch4 p95.pdb
+C:\Users\lower\source\repos\ForLoop For Loop b1 ch4 p95\ForLoop For Loop b1 ch4 p95\obj\Debug\net5.0\ForLoop For Loop b1 ch4 p95.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\ForLoop For Loop b1 ch4 p95\ForLoop For Loop b1 ch4 p95\obj\Debug\net5.0\ForLoop For Loop b1 ch4 p95.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\ForLoop For Loop b1 ch4 p95\ForLoop For Loop b1 ch4 p95\obj\Debug\net5.0\ForLoop For Loop b1 ch4 p95.AssemblyInfo.cs
+C:\Users\lower\source\repos\ForLoop For Loop b1 ch4 p95\ForLoop For Loop b1 ch4 p95\obj\Debug\net5.0\ForLoop For Loop b1 ch4 p95.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\ForLoop For Loop b1 ch4 p95\ForLoop For Loop b1 ch4 p95\obj\Debug\net5.0\ForLoop For Loop b1 ch4 p95.dll
+C:\Users\lower\source\repos\ForLoop For Loop b1 ch4 p95\ForLoop For Loop b1 ch4 p95\obj\Debug\net5.0\ref\ForLoop For Loop b1 ch4 p95.dll
+C:\Users\lower\source\repos\ForLoop For Loop b1 ch4 p95\ForLoop For Loop b1 ch4 p95\obj\Debug\net5.0\ForLoop For Loop b1 ch4 p95.pdb
+C:\Users\lower\source\repos\ForLoop For Loop b1 ch4 p95\ForLoop For Loop b1 ch4 p95\obj\Debug\net5.0\ForLoop For Loop b1 ch4 p95.genruntimeconfig.cache
