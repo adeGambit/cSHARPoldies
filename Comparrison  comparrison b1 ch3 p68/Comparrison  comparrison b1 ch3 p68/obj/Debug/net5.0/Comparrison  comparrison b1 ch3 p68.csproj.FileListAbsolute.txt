@@ -1,0 +1,16 @@
+C:\Users\lower\source\repos\Comparrison  comparrison b1 ch3 p68\Comparrison  comparrison b1 ch3 p68\bin\Debug\net5.0\Comparrison  comparrison b1 ch3 p68.exe
+C:\Users\lower\source\repos\Comparrison  comparrison b1 ch3 p68\Comparrison  comparrison b1 ch3 p68\bin\Debug\net5.0\Comparrison  comparrison b1 ch3 p68.deps.json
+C:\Users\lower\source\repos\Comparrison  comparrison b1 ch3 p68\Comparrison  comparrison b1 ch3 p68\bin\Debug\net5.0\Comparrison  comparrison b1 ch3 p68.runtimeconfig.json
+C:\Users\lower\source\repos\Comparrison  comparrison b1 ch3 p68\Comparrison  comparrison b1 ch3 p68\bin\Debug\net5.0\Comparrison  comparrison b1 ch3 p68.runtimeconfig.dev.json
+C:\Users\lower\source\repos\Comparrison  comparrison b1 ch3 p68\Comparrison  comparrison b1 ch3 p68\bin\Debug\net5.0\Comparrison  comparrison b1 ch3 p68.dll
+C:\Users\lower\source\repos\Comparrison  comparrison b1 ch3 p68\Comparrison  comparrison b1 ch3 p68\bin\Debug\net5.0\ref\Comparrison  comparrison b1 ch3 p68.dll
+C:\Users\lower\source\repos\Comparrison  comparrison b1 ch3 p68\Comparrison  comparrison b1 ch3 p68\bin\Debug\net5.0\Comparrison  comparrison b1 ch3 p68.pdb
+C:\Users\lower\source\repos\Comparrison  comparrison b1 ch3 p68\Comparrison  comparrison b1 ch3 p68\obj\Debug\net5.0\Comparrison  comparrison b1 ch3 p68.csproj.AssemblyReference.cache
+C:\Users\lower\source\repos\Comparrison  comparrison b1 ch3 p68\Comparrison  comparrison b1 ch3 p68\obj\Debug\net5.0\Comparrison  comparrison b1 ch3 p68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\Comparrison  comparrison b1 ch3 p68\Comparrison  comparrison b1 ch3 p68\obj\Debug\net5.0\Comparrison  comparrison b1 ch3 p68.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\Comparrison  comparrison b1 ch3 p68\Comparrison  comparrison b1 ch3 p68\obj\Debug\net5.0\Comparrison  comparrison b1 ch3 p68.AssemblyInfo.cs
+C:\Users\lower\source\repos\Comparrison  comparrison b1 ch3 p68\Comparrison  comparrison b1 ch3 p68\obj\Debug\net5.0\Comparrison  comparrison b1 ch3 p68.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\Comparrison  comparrison b1 ch3 p68\Comparrison  comparrison b1 ch3 p68\obj\Debug\net5.0\Comparrison  comparrison b1 ch3 p68.dll
+C:\Users\lower\source\repos\Comparrison  comparrison b1 ch3 p68\Comparrison  comparrison b1 ch3 p68\obj\Debug\net5.0\ref\Comparrison  comparrison b1 ch3 p68.dll
+C:\Users\lower\source\repos\Comparrison  comparrison b1 ch3 p68\Comparrison  comparrison b1 ch3 p68\obj\Debug\net5.0\Comparrison  comparrison b1 ch3 p68.pdb
+C:\Users\lower\source\repos\Comparrison  comparrison b1 ch3 p68\Comparrison  comparrison b1 ch3 p68\obj\Debug\net5.0\Comparrison  comparrison b1 ch3 p68.genruntimeconfig.cache

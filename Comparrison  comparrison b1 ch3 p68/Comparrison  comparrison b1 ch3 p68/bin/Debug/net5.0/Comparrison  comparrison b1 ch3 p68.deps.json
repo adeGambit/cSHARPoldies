@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Comparrison  comparrison b1 ch3 p68/1.0.0": {
+        "runtime": {
+          "Comparrison  comparrison b1 ch3 p68.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Comparrison  comparrison b1 ch3 p68/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
