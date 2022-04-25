@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IfElse IfElse b1 ch4 p87/1.0.0": {
+        "runtime": {
+          "IfElse IfElse b1 ch4 p87.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IfElse IfElse b1 ch4 p87/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
