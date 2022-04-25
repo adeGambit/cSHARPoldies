@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WriteText WriteText b1 ch7 p159/1.0.0": {
+        "runtime": {
+          "WriteText WriteText b1 ch7 p159.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WriteText WriteText b1 ch7 p159/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

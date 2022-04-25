@@ -1,0 +1,16 @@
+C:\Users\lower\source\repos\WriteText WriteText b1 ch7 p159\WriteText WriteText b1 ch7 p159\bin\Debug\net5.0\WriteText WriteText b1 ch7 p159.exe
+C:\Users\lower\source\repos\WriteText WriteText b1 ch7 p159\WriteText WriteText b1 ch7 p159\bin\Debug\net5.0\WriteText WriteText b1 ch7 p159.deps.json
+C:\Users\lower\source\repos\WriteText WriteText b1 ch7 p159\WriteText WriteText b1 ch7 p159\bin\Debug\net5.0\WriteText WriteText b1 ch7 p159.runtimeconfig.json
+C:\Users\lower\source\repos\WriteText WriteText b1 ch7 p159\WriteText WriteText b1 ch7 p159\bin\Debug\net5.0\WriteText WriteText b1 ch7 p159.runtimeconfig.dev.json
+C:\Users\lower\source\repos\WriteText WriteText b1 ch7 p159\WriteText WriteText b1 ch7 p159\bin\Debug\net5.0\WriteText WriteText b1 ch7 p159.dll
+C:\Users\lower\source\repos\WriteText WriteText b1 ch7 p159\WriteText WriteText b1 ch7 p159\bin\Debug\net5.0\ref\WriteText WriteText b1 ch7 p159.dll
+C:\Users\lower\source\repos\WriteText WriteText b1 ch7 p159\WriteText WriteText b1 ch7 p159\bin\Debug\net5.0\WriteText WriteText b1 ch7 p159.pdb
+C:\Users\lower\source\repos\WriteText WriteText b1 ch7 p159\WriteText WriteText b1 ch7 p159\obj\Debug\net5.0\WriteText WriteText b1 ch7 p159.csproj.AssemblyReference.cache
+C:\Users\lower\source\repos\WriteText WriteText b1 ch7 p159\WriteText WriteText b1 ch7 p159\obj\Debug\net5.0\WriteText WriteText b1 ch7 p159.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\WriteText WriteText b1 ch7 p159\WriteText WriteText b1 ch7 p159\obj\Debug\net5.0\WriteText WriteText b1 ch7 p159.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\WriteText WriteText b1 ch7 p159\WriteText WriteText b1 ch7 p159\obj\Debug\net5.0\WriteText WriteText b1 ch7 p159.AssemblyInfo.cs
+C:\Users\lower\source\repos\WriteText WriteText b1 ch7 p159\WriteText WriteText b1 ch7 p159\obj\Debug\net5.0\WriteText WriteText b1 ch7 p159.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\WriteText WriteText b1 ch7 p159\WriteText WriteText b1 ch7 p159\obj\Debug\net5.0\WriteText WriteText b1 ch7 p159.dll
+C:\Users\lower\source\repos\WriteText WriteText b1 ch7 p159\WriteText WriteText b1 ch7 p159\obj\Debug\net5.0\ref\WriteText WriteText b1 ch7 p159.dll
+C:\Users\lower\source\repos\WriteText WriteText b1 ch7 p159\WriteText WriteText b1 ch7 p159\obj\Debug\net5.0\WriteText WriteText b1 ch7 p159.pdb
+C:\Users\lower\source\repos\WriteText WriteText b1 ch7 p159\WriteText WriteText b1 ch7 p159\obj\Debug\net5.0\WriteText WriteText b1 ch7 p159.genruntimeconfig.cache
