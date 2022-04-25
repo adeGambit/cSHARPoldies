@@ -1,0 +1,15 @@
+C:\Users\lower\source\repos\Features Features b1 ch 6 p128\Features Features b1 ch 6 p128\bin\Debug\net5.0\Features Features b1 ch 6 p128.exe
+C:\Users\lower\source\repos\Features Features b1 ch 6 p128\Features Features b1 ch 6 p128\bin\Debug\net5.0\Features Features b1 ch 6 p128.deps.json
+C:\Users\lower\source\repos\Features Features b1 ch 6 p128\Features Features b1 ch 6 p128\bin\Debug\net5.0\Features Features b1 ch 6 p128.runtimeconfig.json
+C:\Users\lower\source\repos\Features Features b1 ch 6 p128\Features Features b1 ch 6 p128\bin\Debug\net5.0\Features Features b1 ch 6 p128.runtimeconfig.dev.json
+C:\Users\lower\source\repos\Features Features b1 ch 6 p128\Features Features b1 ch 6 p128\bin\Debug\net5.0\Features Features b1 ch 6 p128.dll
+C:\Users\lower\source\repos\Features Features b1 ch 6 p128\Features Features b1 ch 6 p128\bin\Debug\net5.0\ref\Features Features b1 ch 6 p128.dll
+C:\Users\lower\source\repos\Features Features b1 ch 6 p128\Features Features b1 ch 6 p128\bin\Debug\net5.0\Features Features b1 ch 6 p128.pdb
+C:\Users\lower\source\repos\Features Features b1 ch 6 p128\Features Features b1 ch 6 p128\obj\Debug\net5.0\Features Features b1 ch 6 p128.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\Features Features b1 ch 6 p128\Features Features b1 ch 6 p128\obj\Debug\net5.0\Features Features b1 ch 6 p128.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\Features Features b1 ch 6 p128\Features Features b1 ch 6 p128\obj\Debug\net5.0\Features Features b1 ch 6 p128.AssemblyInfo.cs
+C:\Users\lower\source\repos\Features Features b1 ch 6 p128\Features Features b1 ch 6 p128\obj\Debug\net5.0\Features Features b1 ch 6 p128.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\Features Features b1 ch 6 p128\Features Features b1 ch 6 p128\obj\Debug\net5.0\Features Features b1 ch 6 p128.dll
+C:\Users\lower\source\repos\Features Features b1 ch 6 p128\Features Features b1 ch 6 p128\obj\Debug\net5.0\ref\Features Features b1 ch 6 p128.dll
+C:\Users\lower\source\repos\Features Features b1 ch 6 p128\Features Features b1 ch 6 p128\obj\Debug\net5.0\Features Features b1 ch 6 p128.pdb
+C:\Users\lower\source\repos\Features Features b1 ch 6 p128\Features Features b1 ch 6 p128\obj\Debug\net5.0\Features Features b1 ch 6 p128.genruntimeconfig.cache
