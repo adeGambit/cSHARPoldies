@@ -1,0 +1,32 @@
+using System;
+
+namespace gravity
+{
+    class Program
+    {//USE D = (1/2) * g * t2
+
+        static void Main(string[] args)
+        {
+            //double dist = 0;//meters
+            //double grav = 9.8;//9.8
+            //double time = 0;//seconds
+            //double dist = 0;
+
+            for (double time=0; time<10; time++)
+            {
+                fallingDistance(time);
+            }
+
+        }//main end
+        static double fallingDistance(double time)
+        {
+            //double dist = 0.0;
+            double grav = 9.8;//9.8
+            //double tim = 1.0;//seconds
+
+            double dist = (0.5) * grav * (time * time);//the maths
+            Console.WriteLine(dist + " meters");
+            return dist;
+        }//fD function end
+    }//class end
+}//ns end
