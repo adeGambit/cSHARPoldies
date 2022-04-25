@@ -1,0 +1,15 @@
+C:\Users\lower\source\repos\Conversion b1 ch2 p41\Conversion b1 ch2 p41\bin\Debug\net5.0\Conversion b1 ch2 p41.exe
+C:\Users\lower\source\repos\Conversion b1 ch2 p41\Conversion b1 ch2 p41\bin\Debug\net5.0\Conversion b1 ch2 p41.deps.json
+C:\Users\lower\source\repos\Conversion b1 ch2 p41\Conversion b1 ch2 p41\bin\Debug\net5.0\Conversion b1 ch2 p41.runtimeconfig.json
+C:\Users\lower\source\repos\Conversion b1 ch2 p41\Conversion b1 ch2 p41\bin\Debug\net5.0\Conversion b1 ch2 p41.runtimeconfig.dev.json
+C:\Users\lower\source\repos\Conversion b1 ch2 p41\Conversion b1 ch2 p41\bin\Debug\net5.0\Conversion b1 ch2 p41.dll
+C:\Users\lower\source\repos\Conversion b1 ch2 p41\Conversion b1 ch2 p41\bin\Debug\net5.0\ref\Conversion b1 ch2 p41.dll
+C:\Users\lower\source\repos\Conversion b1 ch2 p41\Conversion b1 ch2 p41\bin\Debug\net5.0\Conversion b1 ch2 p41.pdb
+C:\Users\lower\source\repos\Conversion b1 ch2 p41\Conversion b1 ch2 p41\obj\Debug\net5.0\Conversion b1 ch2 p41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\Conversion b1 ch2 p41\Conversion b1 ch2 p41\obj\Debug\net5.0\Conversion b1 ch2 p41.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\Conversion b1 ch2 p41\Conversion b1 ch2 p41\obj\Debug\net5.0\Conversion b1 ch2 p41.AssemblyInfo.cs
+C:\Users\lower\source\repos\Conversion b1 ch2 p41\Conversion b1 ch2 p41\obj\Debug\net5.0\Conversion b1 ch2 p41.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\Conversion b1 ch2 p41\Conversion b1 ch2 p41\obj\Debug\net5.0\Conversion b1 ch2 p41.dll
+C:\Users\lower\source\repos\Conversion b1 ch2 p41\Conversion b1 ch2 p41\obj\Debug\net5.0\ref\Conversion b1 ch2 p41.dll
+C:\Users\lower\source\repos\Conversion b1 ch2 p41\Conversion b1 ch2 p41\obj\Debug\net5.0\Conversion b1 ch2 p41.pdb
+C:\Users\lower\source\repos\Conversion b1 ch2 p41\Conversion b1 ch2 p41\obj\Debug\net5.0\Conversion b1 ch2 p41.genruntimeconfig.cache
