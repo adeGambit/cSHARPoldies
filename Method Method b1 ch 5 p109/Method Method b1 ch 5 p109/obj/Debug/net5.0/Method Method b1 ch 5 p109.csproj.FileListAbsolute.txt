@@ -1,0 +1,15 @@
+C:\Users\lower\source\repos\Method Method b1 ch 5 p109\Method Method b1 ch 5 p109\bin\Debug\net5.0\Method Method b1 ch 5 p109.exe
+C:\Users\lower\source\repos\Method Method b1 ch 5 p109\Method Method b1 ch 5 p109\bin\Debug\net5.0\Method Method b1 ch 5 p109.deps.json
+C:\Users\lower\source\repos\Method Method b1 ch 5 p109\Method Method b1 ch 5 p109\bin\Debug\net5.0\Method Method b1 ch 5 p109.runtimeconfig.json
+C:\Users\lower\source\repos\Method Method b1 ch 5 p109\Method Method b1 ch 5 p109\bin\Debug\net5.0\Method Method b1 ch 5 p109.runtimeconfig.dev.json
+C:\Users\lower\source\repos\Method Method b1 ch 5 p109\Method Method b1 ch 5 p109\bin\Debug\net5.0\Method Method b1 ch 5 p109.dll
+C:\Users\lower\source\repos\Method Method b1 ch 5 p109\Method Method b1 ch 5 p109\bin\Debug\net5.0\ref\Method Method b1 ch 5 p109.dll
+C:\Users\lower\source\repos\Method Method b1 ch 5 p109\Method Method b1 ch 5 p109\bin\Debug\net5.0\Method Method b1 ch 5 p109.pdb
+C:\Users\lower\source\repos\Method Method b1 ch 5 p109\Method Method b1 ch 5 p109\obj\Debug\net5.0\Method Method b1 ch 5 p109.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\Method Method b1 ch 5 p109\Method Method b1 ch 5 p109\obj\Debug\net5.0\Method Method b1 ch 5 p109.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\Method Method b1 ch 5 p109\Method Method b1 ch 5 p109\obj\Debug\net5.0\Method Method b1 ch 5 p109.AssemblyInfo.cs
+C:\Users\lower\source\repos\Method Method b1 ch 5 p109\Method Method b1 ch 5 p109\obj\Debug\net5.0\Method Method b1 ch 5 p109.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\Method Method b1 ch 5 p109\Method Method b1 ch 5 p109\obj\Debug\net5.0\Method Method b1 ch 5 p109.dll
+C:\Users\lower\source\repos\Method Method b1 ch 5 p109\Method Method b1 ch 5 p109\obj\Debug\net5.0\ref\Method Method b1 ch 5 p109.dll
+C:\Users\lower\source\repos\Method Method b1 ch 5 p109\Method Method b1 ch 5 p109\obj\Debug\net5.0\Method Method b1 ch 5 p109.pdb
+C:\Users\lower\source\repos\Method Method b1 ch 5 p109\Method Method b1 ch 5 p109\obj\Debug\net5.0\Method Method b1 ch 5 p109.genruntimeconfig.cache
