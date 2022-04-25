@@ -1,0 +1,31 @@
+using System;//system
+
+namespace rainfall
+ {//namespace open
+    public class program
+    {//class open
+        public static void Main()
+        {//main function open
+            int i;
+            int[] arr = new int[12]; // 12 size array
+            int sum = 0;// initializing sum for total
+            int avg = 0;//initializing avg for average
+            for (i = 0; i < 12; i++)
+            {
+                Console.Write("\nEnter monthly rains\t");// Accepting value from user
+                arr[i] = Convert.ToInt32(Console.ReadLine());//Storing value in an array
+                sum += arr[i];
+            }
+            Console.WriteLine(sum);//Printing the value of sum
+            Console.WriteLine("\n");//newline or space
+            for (i = 0; i < 12; i++) // forloop
+            {
+                Console.WriteLine("you entered {0}", arr[i]);
+                avg = sum / 12;
+            }//forloop end
+            Console.WriteLine("\n");//newline or space
+            Console.WriteLine(avg);//printing the value of avg
+        }//main close
+
+    }//class close
+}//namespace close
