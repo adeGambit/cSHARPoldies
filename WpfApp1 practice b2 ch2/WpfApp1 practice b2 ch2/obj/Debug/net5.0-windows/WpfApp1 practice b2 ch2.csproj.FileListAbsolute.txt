@@ -1,0 +1,22 @@
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\bin\Debug\net5.0-windows\WpfApp1 practice b2 ch2.exe
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\bin\Debug\net5.0-windows\WpfApp1 practice b2 ch2.deps.json
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\bin\Debug\net5.0-windows\WpfApp1 practice b2 ch2.runtimeconfig.json
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\bin\Debug\net5.0-windows\WpfApp1 practice b2 ch2.runtimeconfig.dev.json
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\bin\Debug\net5.0-windows\WpfApp1 practice b2 ch2.dll
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\bin\Debug\net5.0-windows\ref\WpfApp1 practice b2 ch2.dll
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\bin\Debug\net5.0-windows\WpfApp1 practice b2 ch2.pdb
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\obj\Debug\net5.0-windows\WpfApp1 practice b2 ch2.csproj.AssemblyReference.cache
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\obj\Debug\net5.0-windows\WpfApp1 practice b2 ch2_MarkupCompile.cache
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\obj\Debug\net5.0-windows\WpfApp1 practice b2 ch2_MarkupCompile.lref
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\obj\Debug\net5.0-windows\WpfApp1 practice b2 ch2.g.resources
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\obj\Debug\net5.0-windows\WpfApp1 practice b2 ch2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\obj\Debug\net5.0-windows\WpfApp1 practice b2 ch2.AssemblyInfoInputs.cache
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\obj\Debug\net5.0-windows\WpfApp1 practice b2 ch2.AssemblyInfo.cs
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\obj\Debug\net5.0-windows\WpfApp1 practice b2 ch2.csproj.CoreCompileInputs.cache
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\obj\Debug\net5.0-windows\WpfApp1 practice b2 ch2.dll
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\obj\Debug\net5.0-windows\ref\WpfApp1 practice b2 ch2.dll
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\obj\Debug\net5.0-windows\WpfApp1 practice b2 ch2.pdb
+C:\Users\lower\source\repos\WpfApp1 practice b2 ch2\WpfApp1 practice b2 ch2\obj\Debug\net5.0-windows\WpfApp1 practice b2 ch2.genruntimeconfig.cache
